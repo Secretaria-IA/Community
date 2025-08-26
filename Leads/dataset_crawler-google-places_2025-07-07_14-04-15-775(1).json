@@ -1,0 +1,5917 @@
+[{
+  "title": "Moving - Centro de Fisioterapia",
+  "price": null,
+  "categoryName": "Clínica de Fisioterapia",
+  "address": "SIBS Q 2 loja 3/4 - Núcleo Bandeirante, Brasília - DF, 71736-203, Brasil",
+  "neighborhood": "Núcleo Bandeirante",
+  "street": "SIBS Q 2 loja 3/4",
+  "city": "Brasília",
+  "postalCode": "71736-203",
+  "state": "Distrito Federal",
+  "countryCode": "BR",
+  "website": "http://www.movingfisioterapia.com.br/",
+  "phone": "+55 61 3204-3507",
+  "phoneUnformatted": "+556132043507",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -15.8670727,
+    "lng": -47.9726446
+  },
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ9QoNylouWpMRxHqS2ffkwfA",
+  "categories": [
+    "Clínica de Fisioterapia"
+  ],
+  "fid": "0x935a2e5aca0d0af5:0xf0c1e4f7d9927ac4",
+  "cid": "17348398992766171844",
+  "reviewsCount": 16,
+  "imagesCount": 3,
+  "imageCategories": [],
+  "scrapedAt": "2025-07-07T14:04:08.656Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "segunda-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "terça-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "quarta-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "quinta-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "sexta-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "sábado",
+      "hours": "Fechado"
+    },
+    {
+      "day": "domingo",
+      "hours": "Fechado"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Acessibilidade": [
+      {
+        "Banheiro com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Entrada com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Estacionamento com acessibilidade para pessoas em cadeira de rodas": true
+      }
+    ],
+    "Comodidades": [
+      {
+        "Banheiro": true
+      }
+    ],
+    "Planejamento": [
+      {
+        "É recomendado marcar hora": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Moving%20-%20Centro%20de%20Fisioterapia&query_place_id=ChIJ9QoNylouWpMRxHqS2ffkwfA",
+  "searchPageUrl": "https://www.google.com/maps/search/Cl%C3%ADnicas/@-15.86342179573646,-47.97155124193008,15z?hl=pt-BR",
+  "searchString": "Clínicas",
+  "language": "pt-BR",
+  "rank": 6,
+  "isAdvertisement": false,
+  "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=AyXFFbWg3Lx8-pp07TpLdA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=198.1167&pitch=0&thumbfov=100",
+  "kgmid": "/g/11bzs5fb2m"
+},
+{
+  "title": "Ampiezza Clínicas Integradas",
+  "price": null,
+  "categoryName": "Policlínica",
+  "address": "Q. 101 Vista Shopping Sala 1805 - Águas Claras, Brasília - DF, 71906-750, Brasil",
+  "neighborhood": "Águas Claras",
+  "street": "Q. 101 Vista Shopping Sala 1805",
+  "city": "Brasília",
+  "postalCode": "71906-750",
+  "state": "Distrito Federal",
+  "countryCode": "BR",
+  "website": "http://www.clinicaampiezza.com.br/",
+  "phone": "+55 61 3142-0244",
+  "phoneUnformatted": "+556131420244",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -15.8303186,
+    "lng": -48.0105516
+  },
+  "totalScore": 4.6,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJm2S0W5E5WpMR80tcRhFXGTE",
+  "categories": [
+    "Policlínica",
+    "Clínica de Fisioterapia"
+  ],
+  "fid": "0x935a39915bb4649b:0x31195711465c4bf3",
+  "cid": "3537954713982749683",
+  "reviewsCount": 456,
+  "imagesCount": 34,
+  "imageCategories": [],
+  "scrapedAt": "2025-07-07T14:04:08.656Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "segunda-feira",
+      "hours": "07:00 to 22:00"
+    },
+    {
+      "day": "terça-feira",
+      "hours": "07:00 to 22:00"
+    },
+    {
+      "day": "quarta-feira",
+      "hours": "07:00 to 22:00"
+    },
+    {
+      "day": "quinta-feira",
+      "hours": "07:00 to 22:00"
+    },
+    {
+      "day": "sexta-feira",
+      "hours": "07:00 to 22:00"
+    },
+    {
+      "day": "sábado",
+      "hours": "08:00 to 13:00"
+    },
+    {
+      "day": "domingo",
+      "hours": "Fechado"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Acessibilidade": [
+      {
+        "Assento com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Banheiro com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Entrada com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Estacionamento com acessibilidade para pessoas em cadeira de rodas": true
+      }
+    ],
+    "Comodidades": [
+      {
+        "Banheiro": true
+      }
+    ],
+    "Planejamento": [
+      {
+        "Necessário fazer agendamento": true
+      },
+      {
+        "É recomendado marcar hora": true
+      }
+    ],
+    "Pagamentos": [
+      {
+        "Cartão de crédito": true
+      },
+      {
+        "Pagamentos por dispositivo móvel via NFC": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Ampiezza%20Cl%C3%ADnicas%20Integradas&query_place_id=ChIJm2S0W5E5WpMR80tcRhFXGTE",
+  "searchPageUrl": "https://www.google.com/maps/search/Cl%C3%ADnicas/@-15.86342179573646,-47.97155124193008,15z?hl=pt-BR",
+  "searchString": "Clínicas",
+  "language": "pt-BR",
+  "rank": 13,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqELhkRJF4W2Ojh2dzPapCVbBlVhi6L3mdNG0UxN3fz5yCq1Iki6TyEcKyNnXdxJBIUzpQOFBhgbfoIKjSbTLR4rHfXowKnSKCcqQBnTvxs1tdlCE8xdLklknIz_MqUi7P61sVbtA=w408-h544-k-no",
+  "kgmid": "/g/11c1pqcnk5"
+},
+{
+  "title": "Clinfec Águas Claras",
+  "price": null,
+  "categoryName": "Clínica especializada",
+  "address": "Av. das Araucárias, 1835/2005 Salas 410/411 Águas Claras Shopping, Av. das Araucárias, 1835 - Sala 410/411 - Águas Claras, Brasília - DF, 71936-250, Brasil",
+  "neighborhood": "Águas Claras",
+  "street": "Av. das Araucárias, 1835/2005 Salas 410/411 Águas Claras Shopping, Av. das Araucárias, 1835 - Sala 410/411",
+  "city": "Brasília",
+  "postalCode": "71936-250",
+  "state": "DF",
+  "countryCode": "BR",
+  "website": "https://clinfec.com.br/",
+  "phone": "+55 61 3554-9509",
+  "phoneUnformatted": "+556135549509",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -15.8414054,
+    "lng": -48.0235095
+  },
+  "totalScore": 4.6,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ75HXdbIzWpMRmUoYcpOv9RE",
+  "categories": [
+    "Clínica especializada"
+  ],
+  "fid": "0x935a33b275d791ef:0x11f5af9372184a99",
+  "cid": "1294133515748133529",
+  "reviewsCount": 730,
+  "imagesCount": 38,
+  "imageCategories": [],
+  "scrapedAt": "2025-07-07T14:04:08.927Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "segunda-feira",
+      "hours": "07:00 to 19:00"
+    },
+    {
+      "day": "terça-feira",
+      "hours": "07:00 to 19:00"
+    },
+    {
+      "day": "quarta-feira",
+      "hours": "07:00 to 19:00"
+    },
+    {
+      "day": "quinta-feira",
+      "hours": "07:00 to 19:00"
+    },
+    {
+      "day": "sexta-feira",
+      "hours": "07:00 to 19:00"
+    },
+    {
+      "day": "sábado",
+      "hours": "07:00 to 12:00"
+    },
+    {
+      "day": "domingo",
+      "hours": "Fechado"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Acessibilidade": [
+      {
+        "Assento com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Banheiro com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Entrada com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Estacionamento com acessibilidade para pessoas em cadeira de rodas": true
+      }
+    ],
+    "Comodidades": [
+      {
+        "Banheiro": true
+      }
+    ],
+    "Público": [
+      {
+        "Empresa que acolhe a comunidade LGBTQ+": true
+      },
+      {
+        "Espaço seguro para pessoas transgênero": true
+      }
+    ],
+    "Planejamento": [
+      {
+        "É recomendado marcar hora": true
+      }
+    ],
+    "Pagamentos": [
+      {
+        "Cartão de crédito": true
+      },
+      {
+        "Pagamentos por dispositivo móvel via NFC": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Clinfec%20%C3%81guas%20Claras&query_place_id=ChIJ75HXdbIzWpMRmUoYcpOv9RE",
+  "searchPageUrl": "https://www.google.com/maps/search/Cl%C3%ADnicas/@-15.86342179573646,-48.00593185,15z?hl=pt-BR",
+  "searchString": "Clínicas",
+  "language": "pt-BR",
+  "rank": 5,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipM9J9CB4OKiZ6Byiei-MpLCmQWCZnaHdZhKO84X=w494-h240-k-no",
+  "kgmid": "/g/11sb_11307"
+},
+{
+  "title": "Clínica do Sono Águas Claras - Taguatinga - Polissonografia",
+  "price": null,
+  "categoryName": "Clínica do sono",
+  "address": "Via Azaleia - Av. Pau Brasil, 11 - Loja 1 - Águas Claras, Brasília - DF, 72025-065, Brasil",
+  "neighborhood": "Águas Claras",
+  "street": "Via Azaleia - Av. Pau Brasil, 11 - Loja 1",
+  "city": "Brasília",
+  "postalCode": "72025-065",
+  "state": "Distrito Federal",
+  "countryCode": "BR",
+  "website": "https://sonoaguasclaras.com.br/",
+  "phone": "+55 61 3346-7689",
+  "phoneUnformatted": "+556133467689",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -15.8426616,
+    "lng": -48.027357
+  },
+  "totalScore": 4.9,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJcycaA1IzWpMRp1SEDev4drk",
+  "categories": [
+    "Clínica do sono"
+  ],
+  "fid": "0x935a3352031a2773:0xb976f8eb0d8454a7",
+  "cid": "13364142632696304807",
+  "reviewsCount": 60,
+  "imagesCount": 2,
+  "imageCategories": [],
+  "scrapedAt": "2025-07-07T14:04:08.927Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "segunda-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "terça-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "quarta-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "quinta-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "sexta-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "sábado",
+      "hours": "08:00 to 11:00"
+    },
+    {
+      "day": "domingo",
+      "hours": "Fechado"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Acessibilidade": [
+      {
+        "Entrada com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Estacionamento com acessibilidade para pessoas em cadeira de rodas": true
+      }
+    ],
+    "Comodidades": [
+      {
+        "Banheiro": true
+      }
+    ],
+    "Planejamento": [
+      {
+        "É recomendado marcar hora": true
+      }
+    ],
+    "Pagamentos": [
+      {
+        "Cartão de crédito": true
+      },
+      {
+        "Pagamentos por dispositivo móvel via NFC": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Cl%C3%ADnica%20do%20Sono%20%C3%81guas%20Claras%20-%20Taguatinga%20-%20Polissonografia&query_place_id=ChIJcycaA1IzWpMRp1SEDev4drk",
+  "searchPageUrl": "https://www.google.com/maps/search/Cl%C3%ADnicas/@-15.86342179573646,-48.00593185,15z?hl=pt-BR",
+  "searchString": "Clínicas",
+  "language": "pt-BR",
+  "rank": 6,
+  "isAdvertisement": false,
+  "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=d4GqlRGhgZ8AZOxJ73eR8w&cb_client=search.gws-prod.gps&w=408&h=240&yaw=95.270645&pitch=0&thumbfov=100",
+  "kgmid": "/g/11v_1m5l8n"
+},
+{
+  "title": "Clínica de Olhos Teixeira Pinto",
+  "price": null,
+  "categoryName": "Clínica oftalmológica",
+  "address": "QS 05 LOTE 28 TERREO, LOJA 01, Águas Claras, Brasília - DF, 71953-000, Brasil",
+  "neighborhood": "Águas Claras",
+  "street": "QS 05 LOTE 28 TERREO, LOJA 01, Águas Claras",
+  "city": "Brasília",
+  "postalCode": "71953-000",
+  "state": "DF",
+  "countryCode": "BR",
+  "website": "https://cotp.com.br/",
+  "phone": "+55 61 3322-0008",
+  "phoneUnformatted": "+556133220008",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -15.8548244,
+    "lng": -48.0359856
+  },
+  "totalScore": 4.5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJY_eLK58tWpMRICri7Fwvfes",
+  "categories": [
+    "Clínica oftalmológica"
+  ],
+  "fid": "0x935a2d9f2b8bf763:0xeb7d2f5cece22a20",
+  "cid": "16968771047159638560",
+  "reviewsCount": 87,
+  "imagesCount": 45,
+  "imageCategories": [],
+  "scrapedAt": "2025-07-07T14:04:08.927Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "segunda-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "terça-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "quarta-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "quinta-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "sexta-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "sábado",
+      "hours": "Fechado"
+    },
+    {
+      "day": "domingo",
+      "hours": "Fechado"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Da empresa": [
+      {
+        "Se identifica como uma empresa de empreendedoras": true
+      }
+    ],
+    "Acessibilidade": [
+      {
+        "Assento com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Banheiro com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Entrada com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Estacionamento com acessibilidade para pessoas em cadeira de rodas": true
+      }
+    ],
+    "Comodidades": [
+      {
+        "Banheiro": true
+      }
+    ],
+    "Planejamento": [
+      {
+        "Necessário fazer agendamento": true
+      },
+      {
+        "É recomendado marcar hora": true
+      }
+    ],
+    "Pagamentos": [
+      {
+        "Cartão de crédito": true
+      },
+      {
+        "Pagamentos por dispositivo móvel via NFC": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Cl%C3%ADnica%20de%20Olhos%20Teixeira%20Pinto&query_place_id=ChIJY_eLK58tWpMRICri7Fwvfes",
+  "searchPageUrl": "https://www.google.com/maps/search/Cl%C3%ADnicas/@-15.86342179573646,-48.00593185,15z?hl=pt-BR",
+  "searchString": "Clínicas",
+  "language": "pt-BR",
+  "rank": 9,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrybrrFqgwpHuYm3zdxHu8nk9y0V7_V-7ndj2a_uySHVpRXUUXbw-MawHPSSTs76AQHxF0Q_KljzKVlqN02EYLXVQxxmUtJSKmKVcZ_MFZLhLnmOLO7MHpZW8cmrIVvT9p07Rx0-A=w426-h240-k-no",
+  "kgmid": "/g/11h_wr1qp_"
+},
+{
+  "title": "Clínica Habilita",
+  "price": null,
+  "categoryName": "Clínica especializada",
+  "address": "Edifício Ilha de Manhathan - R. 13 Norte, 04 - Loja 07 - Águas Claras, Brasília - DF, 71909-720, Brasil",
+  "neighborhood": "Águas Claras",
+  "street": "Edifício Ilha de Manhathan - R. 13 Norte, 04 - Loja 07",
+  "city": "Brasília",
+  "postalCode": "71909-720",
+  "state": "Distrito Federal",
+  "countryCode": "BR",
+  "website": "http://www.habilita.com.br/",
+  "phone": "+55 61 3541-3153",
+  "phoneUnformatted": "+556135413153",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -15.8370842,
+    "lng": -48.0194425
+  },
+  "totalScore": 4.6,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJJ7olaxMyWpMRdC3cAjuYsWg",
+  "categories": [
+    "Clínica especializada"
+  ],
+  "fid": "0x935a32136b25ba27:0x68b1983b02dc2d74",
+  "cid": "7543978230040767860",
+  "reviewsCount": 154,
+  "imagesCount": 9,
+  "imageCategories": [],
+  "scrapedAt": "2025-07-07T14:04:08.927Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "segunda-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "terça-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "quarta-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "quinta-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "sexta-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "sábado",
+      "hours": "08:00 to 12:00"
+    },
+    {
+      "day": "domingo",
+      "hours": "Fechado"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Acessibilidade": [
+      {
+        "Assento com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Banheiro com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Entrada com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Estacionamento com acessibilidade para pessoas em cadeira de rodas": true
+      }
+    ],
+    "Comodidades": [
+      {
+        "Banheiro": true
+      }
+    ],
+    "Planejamento": [
+      {
+        "É recomendado marcar hora": true
+      }
+    ],
+    "Pagamentos": [
+      {
+        "Cartão de crédito": true
+      },
+      {
+        "Pagamentos por dispositivo móvel via NFC": true
+      }
+    ],
+    "Estacionamento": [
+      {
+        "Estacionamento gratuito na rua": true
+      },
+      {
+        "Estacionamento no local": true
+      },
+      {
+        "Estacionamento pago na rua": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Cl%C3%ADnica%20Habilita&query_place_id=ChIJJ7olaxMyWpMRdC3cAjuYsWg",
+  "searchPageUrl": "https://www.google.com/maps/search/Cl%C3%ADnicas/@-15.86342179573646,-48.00593185,15z?hl=pt-BR",
+  "searchString": "Clínicas",
+  "language": "pt-BR",
+  "rank": 11,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nob7fjX50Jonhxpj149f-Hrzl1lK822YjJ_PsSj78smxMKhm_IO8cjvZXwbpohWB-pYiIfANV-O2_5jtxTRlN0N097lLuRZcetcuCsWIiw4SyzWGuVpQ_YWijR8oDRP6xVR11a72g=w426-h240-k-no",
+  "kgmid": "/g/11b6hn65sl"
+},
+{
+  "title": "Clinica Hydroz Ozonioterapia Beauty",
+  "price": null,
+  "categoryName": "Terapeuta",
+  "address": "Rua 25 sul, Bl. A Lote 30 Loja 103 - Águas Claras, Brasília - DF, 71927-180, Brasil",
+  "neighborhood": "Águas Claras",
+  "street": "Rua 25 sul, Bl. A Lote 30 Loja 103",
+  "city": "Brasília",
+  "postalCode": "71927-180",
+  "state": "DF",
+  "countryCode": "BR",
+  "website": "https://www.ozonioterapia.bsb.br/",
+  "phone": "+55 61 3578-3968",
+  "phoneUnformatted": "+556135783968",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -15.843832,
+    "lng": -48.0296716
+  },
+  "totalScore": 4.9,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJxV15kPczWpMRV7GFJt-ZyP0",
+  "categories": [
+    "Terapeuta",
+    "Spa"
+  ],
+  "fid": "0x935a33f790795dc5:0xfdc899df2685b157",
+  "cid": "18287035470640951639",
+  "reviewsCount": 105,
+  "imagesCount": 70,
+  "imageCategories": [],
+  "scrapedAt": "2025-07-07T14:04:08.927Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "segunda-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "terça-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "quarta-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "quinta-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "sexta-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "sábado",
+      "hours": "Fechado"
+    },
+    {
+      "day": "domingo",
+      "hours": "Fechado"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Acessibilidade": [
+      {
+        "Banheiro com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Entrada com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Estacionamento com acessibilidade para pessoas em cadeira de rodas": true
+      }
+    ],
+    "Comodidades": [
+      {
+        "Banheiro": true
+      }
+    ],
+    "Planejamento": [
+      {
+        "É recomendado marcar hora": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Clinica%20Hydroz%20Ozonioterapia%20Beauty&query_place_id=ChIJxV15kPczWpMRV7GFJt-ZyP0",
+  "searchPageUrl": "https://www.google.com/maps/search/Cl%C3%ADnicas/@-15.86342179573646,-48.00593185,15z?hl=pt-BR",
+  "searchString": "Clínicas",
+  "language": "pt-BR",
+  "rank": 12,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOg_0rEHCplgFMe5QYvKV7wyzn0T-pP7-WdeHH5=w408-h306-k-no",
+  "kgmid": "/g/11fjqk31ms"
+},
+{
+  "title": "Alvitta — Clínica de saúde integrada",
+  "price": null,
+  "categoryName": "Clínica de acupuntura",
+  "address": "Ed. Le Quartier - Av. Pau Brasil, 10 - sala 1621 - Águas Claras, Brasília - DF, 71926-000, Brasil",
+  "neighborhood": "Águas Claras",
+  "street": "Ed. Le Quartier - Av. Pau Brasil, 10 - sala 1621",
+  "city": "Brasília",
+  "postalCode": "71926-000",
+  "state": "Distrito Federal",
+  "countryCode": "BR",
+  "website": "http://www.alvitta.com.br//",
+  "phone": "+55 61 98103-1113",
+  "phoneUnformatted": "+5561981031113",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -15.8405589,
+    "lng": -48.0272761
+  },
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJY9AcmTwzWpMRW4qZgDTgaEs",
+  "categories": [
+    "Clínica de acupuntura"
+  ],
+  "fid": "0x935a333c991cd063:0x4b68e03480998a5b",
+  "cid": "5433839466522970715",
+  "reviewsCount": 96,
+  "imagesCount": 16,
+  "imageCategories": [],
+  "scrapedAt": "2025-07-07T14:04:08.927Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "segunda-feira",
+      "hours": "07:30 to 20:00"
+    },
+    {
+      "day": "terça-feira",
+      "hours": "07:30 to 19:00"
+    },
+    {
+      "day": "quarta-feira",
+      "hours": "07:30 to 20:00"
+    },
+    {
+      "day": "quinta-feira",
+      "hours": "07:30 to 19:00"
+    },
+    {
+      "day": "sexta-feira",
+      "hours": "07:30 to 20:00"
+    },
+    {
+      "day": "sábado",
+      "hours": "08:00 to 12:00"
+    },
+    {
+      "day": "domingo",
+      "hours": "Fechado"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Acessibilidade": [
+      {
+        "Banheiro com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Entrada com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Estacionamento com acessibilidade para pessoas em cadeira de rodas": true
+      }
+    ],
+    "Comodidades": [
+      {
+        "Banheiro": true
+      }
+    ],
+    "Planejamento": [
+      {
+        "É recomendado marcar hora": true
+      }
+    ],
+    "Pagamentos": [
+      {
+        "Cartão de crédito": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Alvitta%20%E2%80%94%20Cl%C3%ADnica%20de%20sa%C3%BAde%20integrada&query_place_id=ChIJY9AcmTwzWpMRW4qZgDTgaEs",
+  "searchPageUrl": "https://www.google.com/maps/search/Cl%C3%ADnicas/@-15.86342179573646,-48.00593185,15z?hl=pt-BR",
+  "searchString": "Clínicas",
+  "language": "pt-BR",
+  "rank": 13,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNx1SrVhwmxre792336NtNOHZoj8sv0tG7C7_G3=w408-h612-k-no",
+  "kgmid": "/g/11sn_2lcrr"
+},
+{
+  "title": "Flow Fisioterapia",
+  "price": null,
+  "categoryName": "Clínica de Fisioterapia",
+  "address": "EDIFÍCIO PARK STYLE MALL BLOCO C - R. 25 Sul, 30 - LOJA 112 - Águas Claras, Brasília - DF, 71927-180, Brasil",
+  "neighborhood": "Águas Claras",
+  "street": "EDIFÍCIO PARK STYLE MALL BLOCO C - R. 25 Sul, 30 - LOJA 112",
+  "city": "Brasília",
+  "postalCode": "71927-180",
+  "state": "Distrito Federal",
+  "countryCode": "BR",
+  "website": "https://flowfisioterapia.my.canva.site/",
+  "phone": "+55 61 99922-2912",
+  "phoneUnformatted": "+5561999222912",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -15.844244,
+    "lng": -48.0297834
+  },
+  "totalScore": 4.9,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ4f_XAmUzWpMRLV2hzG1hVMA",
+  "categories": [
+    "Clínica de Fisioterapia"
+  ],
+  "fid": "0x935a336502d7ffe1:0xc054616dcca15d2d",
+  "cid": "13858809077538315565",
+  "reviewsCount": 58,
+  "imagesCount": 7,
+  "imageCategories": [],
+  "scrapedAt": "2025-07-07T14:04:08.927Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "segunda-feira",
+      "hours": "07:00 to 22:00"
+    },
+    {
+      "day": "terça-feira",
+      "hours": "07:00 to 22:00"
+    },
+    {
+      "day": "quarta-feira",
+      "hours": "07:00 to 22:00"
+    },
+    {
+      "day": "quinta-feira",
+      "hours": "07:00 to 22:00"
+    },
+    {
+      "day": "sexta-feira",
+      "hours": "07:00 to 22:00"
+    },
+    {
+      "day": "sábado",
+      "hours": "07:00 to 16:00"
+    },
+    {
+      "day": "domingo",
+      "hours": "Fechado"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Opções de serviço": [
+      {
+        "Serviços no local": true
+      },
+      {
+        "Espanhol": true
+      }
+    ],
+    "Acessibilidade": [
+      {
+        "Entrada com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Estacionamento com acessibilidade para pessoas em cadeira de rodas": true
+      }
+    ],
+    "Comodidades": [
+      {
+        "Banheiro": true
+      }
+    ],
+    "Público": [
+      {
+        "Empresa que acolhe a comunidade LGBTQ+": true
+      },
+      {
+        "Espaço seguro para pessoas transgênero": true
+      }
+    ],
+    "Planejamento": [
+      {
+        "Necessário fazer agendamento": true
+      },
+      {
+        "É recomendado marcar hora": true
+      }
+    ],
+    "Pagamentos": [
+      {
+        "Cartão de crédito": true
+      },
+      {
+        "Pagamentos por dispositivo móvel via NFC": true
+      }
+    ],
+    "Estacionamento": [
+      {
+        "Estacionamento coberto pago": true
+      },
+      {
+        "Estacionamento descoberto pago": true
+      },
+      {
+        "Estacionamento gratuito na rua": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Flow%20Fisioterapia&query_place_id=ChIJ4f_XAmUzWpMRLV2hzG1hVMA",
+  "searchPageUrl": "https://www.google.com/maps/search/Cl%C3%ADnicas/@-15.86342179573646,-48.00593185,15z?hl=pt-BR",
+  "searchString": "Clínicas",
+  "language": "pt-BR",
+  "rank": 16,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOCnC_5xDYidJuzz7pqrkN1ySQnPx6RDLMb6Mx9=w408-h544-k-no",
+  "kgmid": "/g/11lnn0_6nc"
+},
+{
+  "title": "Cep - Centro de Especialidades Pediátricas",
+  "price": null,
+  "categoryName": "Pediatra",
+  "address": "CEP - Centro de Especialidades Pediátricas Avenida das Araucárias, Lotes 1835 a 2005, Shopping - 5º Andar - Sala 514 - Aguas Claras, Brasília - DF, 71936-250, Brasil",
+  "neighborhood": "Aguas Claras",
+  "street": "CEP - Centro de Especialidades Pediátricas Avenida das Araucárias, Lotes 1835 a 2005, Shopping - 5º Andar - Sala 514",
+  "city": "Brasília",
+  "postalCode": "71936-250",
+  "state": "DF",
+  "countryCode": "BR",
+  "website": "http://www.cep.med.br/",
+  "phone": "+55 61 3436-5255",
+  "phoneUnformatted": "+556134365255",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -15.8414309,
+    "lng": -48.0232929
+  },
+  "totalScore": 3.3,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJGfUVO-kyWpMRpGiv0ovHGn0",
+  "categories": [
+    "Pediatra",
+    "Alergista",
+    "Centro de diagnóstico médico por imagem",
+    "Nutricionista",
+    "Cardiologista pediátrico",
+    "Clínica pediátrica",
+    "Endocrinologista pediátrico",
+    "Gastroenterologista pediátrico",
+    "Pneumologista pediátrico",
+    "Reumatologista pediátrico"
+  ],
+  "fid": "0x935a32e93b15f519:0x7d1ac78bd2af68a4",
+  "cid": "9014737007484561572",
+  "reviewsCount": 105,
+  "imagesCount": 17,
+  "imageCategories": [],
+  "scrapedAt": "2025-07-07T14:04:08.928Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "segunda-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "terça-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "quarta-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "quinta-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "sexta-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "sábado",
+      "hours": "08:00 to 12:00"
+    },
+    {
+      "day": "domingo",
+      "hours": "Fechado"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Acessibilidade": [
+      {
+        "Banheiro com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Entrada com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Estacionamento com acessibilidade para pessoas em cadeira de rodas": true
+      }
+    ],
+    "Comodidades": [
+      {
+        "Banheiro": true
+      }
+    ],
+    "Planejamento": [
+      {
+        "Necessário fazer agendamento": true
+      },
+      {
+        "É recomendado marcar hora": true
+      }
+    ],
+    "Pagamentos": [
+      {
+        "Cartão de crédito": true
+      },
+      {
+        "Pagamentos por dispositivo móvel via NFC": true
+      }
+    ],
+    "Estacionamento": [
+      {
+        "Estacionamento coberto pago": true
+      },
+      {
+        "Estacionamento gratuito na rua": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Cep%20-%20Centro%20de%20Especialidades%20Pedi%C3%A1tricas&query_place_id=ChIJGfUVO-kyWpMRpGiv0ovHGn0",
+  "searchPageUrl": "https://www.google.com/maps/search/Cl%C3%ADnicas/@-15.86342179573646,-48.00593185,15z?hl=pt-BR",
+  "searchString": "Clínicas",
+  "language": "pt-BR",
+  "rank": 17,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPW6wOpAFEqmKKLA6O33sP9EkzvcF3IHP3v_TcH=w408-h271-k-no",
+  "kgmid": "/g/12hywf3wl"
+},
+{
+  "title": "Hope Centro Clínico",
+  "price": null,
+  "categoryName": "Clínica de Fisioterapia",
+  "address": "Av. das Araucárias, lote 1835/2005, Salas 560, 561 e 562 - Águas Claras Shopping - Águas Claras, Brasília - DF, 71936-250, Brasil",
+  "neighborhood": "Águas Claras",
+  "street": "Av. das Araucárias, lote 1835/2005, Salas 560, 561 e 562 - Águas Claras Shopping",
+  "city": "Brasília",
+  "postalCode": "71936-250",
+  "state": "DF",
+  "countryCode": "BR",
+  "website": "http://www.centroclinicohope.com.br/",
+  "phone": "+55 61 3970-3333",
+  "phoneUnformatted": "+556139703333",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -15.8413647,
+    "lng": -48.0237183
+  },
+  "totalScore": 4.5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ8TdTeHIyWpMRyrgH4SIrgOE",
+  "categories": [
+    "Clínica de Fisioterapia",
+    "Clínica de acupuntura",
+    "Clínica de Quiropraxia",
+    "Neurofisiologista",
+    "Ortodontista",
+    "Clínica ortopédica",
+    "Osteopata",
+    "Fisioterapeuta",
+    "Estúdio de pilates",
+    "Clínica de Reabilitação"
+  ],
+  "fid": "0x935a3272785337f1:0xe1802b22e107b8ca",
+  "cid": "16249034884357011658",
+  "reviewsCount": 26,
+  "imagesCount": 21,
+  "imageCategories": [],
+  "scrapedAt": "2025-07-07T14:04:08.928Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "segunda-feira",
+      "hours": "07:00 to 20:00"
+    },
+    {
+      "day": "terça-feira",
+      "hours": "07:00 to 20:00"
+    },
+    {
+      "day": "quarta-feira",
+      "hours": "07:00 to 20:00"
+    },
+    {
+      "day": "quinta-feira",
+      "hours": "07:00 to 20:00"
+    },
+    {
+      "day": "sexta-feira",
+      "hours": "07:00 to 20:00"
+    },
+    {
+      "day": "sábado",
+      "hours": "Fechado"
+    },
+    {
+      "day": "domingo",
+      "hours": "Fechado"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Da empresa": [
+      {
+        "Se identifica como uma empresa de empreendedoras": true
+      }
+    ],
+    "Acessibilidade": [
+      {
+        "Assento com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Banheiro com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Entrada com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Estacionamento com acessibilidade para pessoas em cadeira de rodas": true
+      }
+    ],
+    "Comodidades": [
+      {
+        "Banheiro": true
+      }
+    ],
+    "Público": [
+      {
+        "Empresa que acolhe a comunidade LGBTQ+": true
+      },
+      {
+        "Espaço seguro para pessoas transgênero": true
+      }
+    ],
+    "Planejamento": [
+      {
+        "É recomendado marcar hora": true
+      }
+    ],
+    "Pagamentos": [
+      {
+        "Cartão de crédito": true
+      },
+      {
+        "Pagamentos por dispositivo móvel via NFC": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Hope%20Centro%20Cl%C3%ADnico&query_place_id=ChIJ8TdTeHIyWpMRyrgH4SIrgOE",
+  "searchPageUrl": "https://www.google.com/maps/search/Cl%C3%ADnicas/@-15.86342179573646,-48.00593185,15z?hl=pt-BR",
+  "searchString": "Clínicas",
+  "language": "pt-BR",
+  "rank": 20,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq5fq3yxp8kRQFNqmdR051v-sL1W9OyjCGzq0o-GHtpEvzqIEs_ii_VUzAlh8720jbD91jh7ft4eeXoWn0Zmm2jUwzWhpE6rZ1lfYIe2HMyZ_G90LzW5NmWVLhqkM4ZWnRvwnND=w621-h240-k-no",
+  "kgmid": "/g/11dyncqbnh"
+},
+{
+  "title": "CIMVET - CENTRO INTEGRADO EM MEDICINA VETERINÁRIA",
+  "price": null,
+  "categoryName": "Veterinário",
+  "address": "St. de Mansões IAPI (Guará II) guará 2 - Brasília, DF, 71070-300, Brasil",
+  "neighborhood": "Brasília",
+  "street": "St. de Mansões IAPI (Guará II) guará 2",
+  "city": "Brasília",
+  "postalCode": "71070-300",
+  "state": "Distrito Federal",
+  "countryCode": "BR",
+  "website": "https://cimvet.simples.vet.br/",
+  "phone": "+55 61 99849-1777",
+  "phoneUnformatted": "+5561998491777",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -15.8561858,
+    "lng": -47.9755964
+  },
+  "totalScore": 4.9,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJm6-9TuEvWpMRS7M7TS5kDqU",
+  "categories": [
+    "Veterinário"
+  ],
+  "fid": "0x935a2fe14ebdaf9b:0xa50e642e4d3bb34b",
+  "cid": "11893553815959089995",
+  "reviewsCount": 58,
+  "reviewsDistribution": {
+    "oneStar": 1,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 1,
+    "fiveStar": 56
+  },
+  "imagesCount": 28,
+  "imageCategories": [],
+  "scrapedAt": "2025-07-07T14:04:09.502Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "segunda-feira",
+      "hours": "Atendimento 24 horas"
+    },
+    {
+      "day": "terça-feira",
+      "hours": "Atendimento 24 horas"
+    },
+    {
+      "day": "quarta-feira",
+      "hours": "Atendimento 24 horas"
+    },
+    {
+      "day": "quinta-feira",
+      "hours": "Atendimento 24 horas"
+    },
+    {
+      "day": "sexta-feira",
+      "hours": "Atendimento 24 horas"
+    },
+    {
+      "day": "sábado",
+      "hours": "Atendimento 24 horas"
+    },
+    {
+      "day": "domingo",
+      "hours": "Atendimento 24 horas"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Acessibilidade": [
+      {
+        "Entrada com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Estacionamento com acessibilidade para pessoas em cadeira de rodas": true
+      }
+    ],
+    "Comodidades": [
+      {
+        "Banheiro": true
+      }
+    ],
+    "Planejamento": [
+      {
+        "É recomendado marcar hora": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=CIMVET%20-%20CENTRO%20INTEGRADO%20EM%20MEDICINA%20VETERIN%C3%81RIA&query_place_id=ChIJm6-9TuEvWpMRS7M7TS5kDqU",
+  "searchPageUrl": "https://www.google.com/maps/search/Cl%C3%ADnicas/@-15.86342179573646,-47.97155124193008,15z?hl=pt-BR",
+  "searchString": "Clínicas",
+  "language": "pt-BR",
+  "rank": 32,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npzOV2be7SZWYXgQE1R-8KT-MDuqrzMClZ5gABf6DJ_NYTY_IL1rCk2DAcZo5CEBB3lvlioDGje8akjfXnoOXKx0XPkriIzwqJC4baskt33j5hwL2kjA65YSJxBlKEnafVXqOz9Gg=w408-h905-k-no",
+  "kgmid": "/g/11w3rf22_h"
+},
+{
+  "title": "Medware Sistemas Médicos Ltda",
+  "price": null,
+  "categoryName": "Empresa de Software",
+  "address": "SIBS Quadra 1 Conjunto C Lotes 3, 5, 7 e 9 Ed. NovaData, 1o. Andar - Núcleo Bandeirante, Brasília - DF, 71736-103, Brasil",
+  "neighborhood": "Núcleo Bandeirante",
+  "street": "SIBS Quadra 1 Conjunto C Lotes 3, 5, 7 e 9 Ed. NovaData, 1o. Andar",
+  "city": "Brasília",
+  "postalCode": "71736-103",
+  "state": "DF",
+  "countryCode": "BR",
+  "website": "https://www.medware.com.br/",
+  "phone": "+55 61 3301-6575",
+  "phoneUnformatted": "+556133016575",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -15.8654121,
+    "lng": -47.9671044
+  },
+  "totalScore": 4.6,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJlRqS7-ExWpMRMiFdkRSRdg0",
+  "categories": [
+    "Empresa de Software",
+    "Consultoria de informática"
+  ],
+  "fid": "0x935a31e1ef921a95:0xd769114915d2132",
+  "cid": "970122287269093682",
+  "reviewsCount": 45,
+  "reviewsDistribution": {
+    "oneStar": 3,
+    "twoStar": 0,
+    "threeStar": 2,
+    "fourStar": 4,
+    "fiveStar": 36
+  },
+  "imagesCount": 49,
+  "imageCategories": [],
+  "scrapedAt": "2025-07-07T14:04:09.502Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "segunda-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "terça-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "quarta-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "quinta-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "sexta-feira",
+      "hours": "08:00 to 17:00"
+    },
+    {
+      "day": "sábado",
+      "hours": "Fechado"
+    },
+    {
+      "day": "domingo",
+      "hours": "Fechado"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Acessibilidade": [
+      {
+        "Estacionamento com acessibilidade para pessoas em cadeira de rodas": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Medware%20Sistemas%20M%C3%A9dicos%20Ltda&query_place_id=ChIJlRqS7-ExWpMRMiFdkRSRdg0",
+  "searchPageUrl": "https://www.google.com/maps/search/Cl%C3%ADnicas/@-15.86342179573646,-47.97155124193008,15z?hl=pt-BR",
+  "searchString": "Clínicas",
+  "language": "pt-BR",
+  "rank": 33,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOq24Hg3QV0auuc2r-rIhgUY52oG-5AfSg9vSDR=w408-h272-k-no",
+  "kgmid": "/g/1w_vpc2s"
+},
+{
+  "title": "Clinica Costa Fisioterapia",
+  "price": null,
+  "categoryName": "Clínica de Fisioterapia",
+  "address": "Rua das Figueiras Lote 7 Vista Shopping sala 1409 - Águas Claras, Brasília - DF, 71906-750, Brasil",
+  "neighborhood": "Águas Claras",
+  "street": "Rua das Figueiras Lote 7 Vista Shopping sala 1409",
+  "city": "Brasília",
+  "postalCode": "71906-750",
+  "state": "DF",
+  "countryCode": "BR",
+  "website": "http://www.clinicacostafisioterapia.com.br/",
+  "phone": "+55 61 3381-9871",
+  "phoneUnformatted": "+556133819871",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -15.8305473,
+    "lng": -48.0104262
+  },
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJUa9aJRgyWpMRLOePL3oZKg4",
+  "categories": [
+    "Clínica de Fisioterapia"
+  ],
+  "fid": "0x935a3218255aaf51:0xe2a197a2f8fe72c",
+  "cid": "1020656278127503148",
+  "reviewsCount": 24,
+  "imagesCount": 23,
+  "imageCategories": [],
+  "scrapedAt": "2025-07-07T14:04:12.210Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "segunda-feira",
+      "hours": "07:00 to 22:00"
+    },
+    {
+      "day": "terça-feira",
+      "hours": "07:00 to 22:00"
+    },
+    {
+      "day": "quarta-feira",
+      "hours": "07:00 to 22:00"
+    },
+    {
+      "day": "quinta-feira",
+      "hours": "07:00 to 22:00"
+    },
+    {
+      "day": "sexta-feira",
+      "hours": "07:00 to 18:00"
+    },
+    {
+      "day": "sábado",
+      "hours": "Fechado"
+    },
+    {
+      "day": "domingo",
+      "hours": "Fechado"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Opções de serviço": [
+      {
+        "Serviços no local": true
+      }
+    ],
+    "Acessibilidade": [
+      {
+        "Banheiro com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Entrada com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Estacionamento com acessibilidade para pessoas em cadeira de rodas": true
+      }
+    ],
+    "Comodidades": [
+      {
+        "Banheiro": true
+      },
+      {
+        "Banheiro de gênero neutro": true
+      }
+    ],
+    "Planejamento": [
+      {
+        "Necessário fazer agendamento": true
+      },
+      {
+        "É recomendado marcar hora": true
+      }
+    ],
+    "Pagamentos": [
+      {
+        "Cartão de crédito": true
+      },
+      {
+        "Pagamentos por dispositivo móvel via NFC": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Clinica%20Costa%20Fisioterapia&query_place_id=ChIJUa9aJRgyWpMRLOePL3oZKg4",
+  "searchPageUrl": "https://www.google.com/maps/search/Cl%C3%ADnicas/@-15.830352604263538,-48.00593185,15z?hl=pt-BR",
+  "searchString": "Clínicas",
+  "language": "pt-BR",
+  "rank": 5,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npxO8CDWCa1m-fQCvS53DjCiDyCnxEnYdi3Whg7IEH669Plicao7g8UY2aCmo_2HltVu0HSrtOBjRLplZlz0we0XNLxF1boNrMRQCidJQMPkGWYUanijZZ9pyZLEK5ldKNlAXpJ=w427-h240-k-no",
+  "kgmid": "/g/11c7sr7bpp"
+},
+{
+  "title": "SAGO",
+  "price": null,
+  "categoryName": "Policlínica",
+  "address": "Hospital amma - Av. das Araucárias, 785 - Águas Claras, Brasília - DF, 71936-250, Brasil",
+  "neighborhood": "Águas Claras",
+  "street": "Hospital amma - Av. das Araucárias, 785",
+  "city": "Brasília",
+  "postalCode": "71936-250",
+  "state": "Distrito Federal",
+  "countryCode": "BR",
+  "website": "https://api.whatsapp.com/send?phone=5561982920044&text=Ol%C3%A1,%20gostaria%20de%20agendar%20uma%20consulta/exames!",
+  "phone": "+55 61 98292-0044",
+  "phoneUnformatted": "+5561982920044",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -15.8376366,
+    "lng": -48.014235
+  },
+  "totalScore": 3.4,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJcxghwBAyWpMRqHTJ0Ea5de0",
+  "categories": [
+    "Policlínica"
+  ],
+  "fid": "0x935a3210c0211873:0xed75b946d0c974a8",
+  "cid": "17110786073065780392",
+  "reviewsCount": 273,
+  "imagesCount": 5,
+  "imageCategories": [],
+  "scrapedAt": "2025-07-07T14:04:12.210Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "segunda-feira",
+      "hours": "08:00 to 19:00"
+    },
+    {
+      "day": "terça-feira",
+      "hours": "08:00 to 19:00"
+    },
+    {
+      "day": "quarta-feira",
+      "hours": "08:00 to 19:00"
+    },
+    {
+      "day": "quinta-feira",
+      "hours": "08:00 to 19:00"
+    },
+    {
+      "day": "sexta-feira",
+      "hours": "08:00 to 19:00"
+    },
+    {
+      "day": "sábado",
+      "hours": "08:00 to 12:00"
+    },
+    {
+      "day": "domingo",
+      "hours": "Fechado"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Opções de serviço": [
+      {
+        "Português": true
+      }
+    ],
+    "Acessibilidade": [
+      {
+        "Banheiro com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Entrada com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Estacionamento com acessibilidade para pessoas em cadeira de rodas": true
+      }
+    ],
+    "Comodidades": [
+      {
+        "Banheiro": true
+      }
+    ],
+    "Público": [
+      {
+        "Empresa que acolhe a comunidade LGBTQ+": true
+      },
+      {
+        "Espaço seguro para pessoas transgênero": true
+      }
+    ],
+    "Planejamento": [
+      {
+        "Necessário fazer agendamento": true
+      },
+      {
+        "É recomendado marcar hora": true
+      }
+    ],
+    "Pagamentos": [
+      {
+        "Cartão de crédito": true
+      },
+      {
+        "Cartão de débito": true
+      },
+      {
+        "Pagamentos por dispositivo móvel via NFC": true
+      },
+      {
+        "Cartões de crédito": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=SAGO&query_place_id=ChIJcxghwBAyWpMRqHTJ0Ea5de0",
+  "searchPageUrl": "https://www.google.com/maps/search/Cl%C3%ADnicas/@-15.830352604263538,-48.00593185,15z?hl=pt-BR",
+  "searchString": "Clínicas",
+  "language": "pt-BR",
+  "rank": 8,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no1U_TyrEvoCUWF3KimS3ZlNxPJEVGwf6uTWB0WWTPkTiW1z2KDTW4w59we6Jhz-zFW8DMcpNy_iP3ObKp-m18dkwWBTNZPgsQAkc05f7pASoP5fpbztffLM1KHGFpSbNIFFM6fOg=w408-h408-k-no",
+  "kgmid": "/g/1ttphzls"
+},
+{
+  "title": "Life Care Clinic",
+  "price": null,
+  "categoryName": "Clínica especializada",
+  "address": "Edifício Atlantis Trade Center - R. 9 Norte, Lote 01 - Sala 603 - Águas Claras, Brasília - DF, 71908-540, Brasil",
+  "neighborhood": "Águas Claras",
+  "street": "Edifício Atlantis Trade Center - R. 9 Norte, Lote 01 - Sala 603",
+  "city": "Brasília",
+  "postalCode": "71908-540",
+  "state": "Distrito Federal",
+  "countryCode": "BR",
+  "website": "http://www.lifecareclinic.com.br/",
+  "phone": "+55 61 99627-4622",
+  "phoneUnformatted": "+5561996274622",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -15.8348781,
+    "lng": -48.0162798
+  },
+  "totalScore": 3.8,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJTQQlJBgyWpMR-EWhWxIvYcI",
+  "categories": [
+    "Clínica especializada",
+    "Cardiologista",
+    "Médico",
+    "Endocrinologista",
+    "Clínico geral",
+    "Geriatra",
+    "Nutricionista"
+  ],
+  "fid": "0x935a32182425044d:0xc2612f125ba145f8",
+  "cid": "14006528071992165880",
+  "reviewsCount": 15,
+  "imagesCount": 13,
+  "imageCategories": [],
+  "scrapedAt": "2025-07-07T14:04:12.210Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "segunda-feira",
+      "hours": "08:00 to 12:00, 14:00 to 18:00"
+    },
+    {
+      "day": "terça-feira",
+      "hours": "07:00 to 12:00, 14:00 to 17:00"
+    },
+    {
+      "day": "quarta-feira",
+      "hours": "07:00 to 12:00, 14:00 to 16:00"
+    },
+    {
+      "day": "quinta-feira",
+      "hours": "07:00 to 12:00, 14:00 to 17:00"
+    },
+    {
+      "day": "sexta-feira",
+      "hours": "07:00 to 12:00, 14:00 to 17:00"
+    },
+    {
+      "day": "sábado",
+      "hours": "Fechado"
+    },
+    {
+      "day": "domingo",
+      "hours": "Fechado"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Opções de serviço": [
+      {
+        "Inglês": true
+      }
+    ],
+    "Acessibilidade": [
+      {
+        "Assento com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Banheiro com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Entrada com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Estacionamento com acessibilidade para pessoas em cadeira de rodas": true
+      }
+    ],
+    "Comodidades": [
+      {
+        "Banheiro": true
+      }
+    ],
+    "Planejamento": [
+      {
+        "Necessário fazer agendamento": true
+      },
+      {
+        "É recomendado marcar hora": true
+      }
+    ],
+    "Pagamentos": [
+      {
+        "Cartão de crédito": true
+      },
+      {
+        "Cartão de débito": true
+      },
+      {
+        "Pagamentos por dispositivo móvel via NFC": true
+      },
+      {
+        "Cartões de crédito": true
+      }
+    ],
+    "Estacionamento": [
+      {
+        "Estacionamento coberto pago": true
+      },
+      {
+        "Estacionamento gratuito na rua": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Life%20Care%20Clinic&query_place_id=ChIJTQQlJBgyWpMR-EWhWxIvYcI",
+  "searchPageUrl": "https://www.google.com/maps/search/Cl%C3%ADnicas/@-15.830352604263538,-48.00593185,15z?hl=pt-BR",
+  "searchString": "Clínicas",
+  "language": "pt-BR",
+  "rank": 9,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMVaRTW-6mGqZWGN47R2gf9N9y_koPolpvoSml6=w408-h272-k-no",
+  "kgmid": "/g/11bx1z0ccm"
+},
+{
+  "title": "Clínica Cepai Águas Claras",
+  "price": null,
+  "categoryName": "Psicólogo",
+  "address": "Le Quartier Avenida Pau Brasil, 10 Salas 909 a 912 - Águas Claras, Brasília - DF, 71926-000, Brasil",
+  "neighborhood": "Águas Claras",
+  "street": "Le Quartier Avenida Pau Brasil, 10 Salas 909 a 912",
+  "city": "Brasília",
+  "postalCode": "71926-000",
+  "state": "DF",
+  "countryCode": "BR",
+  "website": "http://clinicacepai.com/",
+  "phone": "+55 61 3254-3111",
+  "phoneUnformatted": "+556132543111",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -15.8382787,
+    "lng": -48.0278014
+  },
+  "totalScore": 3.9,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJZ6U_624yWpMRX6PB2dEEdKI",
+  "categories": [
+    "Psicólogo",
+    "Nutricionista",
+    "Terapeuta ocupacional",
+    "Psiquiatra",
+    "Clínica de psicopedagogia",
+    "Fonoaudiólogo"
+  ],
+  "fid": "0x935a326eeb3fa567:0xa27404d1d9c1a35f",
+  "cid": "11705986630790783839",
+  "reviewsCount": 26,
+  "imagesCount": 4,
+  "imageCategories": [],
+  "scrapedAt": "2025-07-07T14:04:12.210Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "segunda-feira",
+      "hours": "08:00 to 22:00"
+    },
+    {
+      "day": "terça-feira",
+      "hours": "08:00 to 22:00"
+    },
+    {
+      "day": "quarta-feira",
+      "hours": "08:00 to 22:00"
+    },
+    {
+      "day": "quinta-feira",
+      "hours": "08:00 to 22:00"
+    },
+    {
+      "day": "sexta-feira",
+      "hours": "08:00 to 22:00"
+    },
+    {
+      "day": "sábado",
+      "hours": "08:00 to 16:00"
+    },
+    {
+      "day": "domingo",
+      "hours": "Fechado"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Acessibilidade": [
+      {
+        "Banheiro com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Entrada com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Estacionamento com acessibilidade para pessoas em cadeira de rodas": true
+      }
+    ],
+    "Comodidades": [
+      {
+        "Banheiro": true
+      }
+    ],
+    "Planejamento": [
+      {
+        "É recomendado marcar hora": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Cl%C3%ADnica%20Cepai%20%C3%81guas%20Claras&query_place_id=ChIJZ6U_624yWpMRX6PB2dEEdKI",
+  "searchPageUrl": "https://www.google.com/maps/search/Cl%C3%ADnicas/@-15.830352604263538,-48.00593185,15z?hl=pt-BR",
+  "searchString": "Clínicas",
+  "language": "pt-BR",
+  "rank": 10,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrhc7yE9CHBgPnapKaAuscHDmzPweace8D0frXKugptfNuA4WiogJodTdbYGCrUlhstN5CSPv66jHr1ChV-nwDNAWfFf9tqydDvuxtGuOvu47U-vpEn86CwjNYu3kC5yLbgIP32qA=w408-h306-k-no",
+  "kgmid": "/g/11g816hlhj"
+},
+{
+  "title": "Clínica ICOD",
+  "price": null,
+  "categoryName": "Clínica ortopédica",
+  "address": "Edifício Albany Medical Center - Rua 05 Norte, Lote 03, Loja 06 - Águas Claras, Brasília - DF, 71907-720, Brasil",
+  "neighborhood": "Águas Claras",
+  "street": "Edifício Albany Medical Center - Rua 05 Norte, Lote 03, Loja 06",
+  "city": "Brasília",
+  "postalCode": "71907-720",
+  "state": "DF",
+  "countryCode": "BR",
+  "website": "https://icod.com.br/",
+  "phone": "+55 61 3964-6322",
+  "phoneUnformatted": "+556139646322",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -15.8348508,
+    "lng": -48.0122656
+  },
+  "totalScore": 4.7,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJf1Vz5DkzWpMR0QA9lL9ZiwA",
+  "categories": [
+    "Clínica ortopédica",
+    "Otorrinolaringologista",
+    "Clínica de otorrinolaringologia"
+  ],
+  "fid": "0x935a3339e473557f:0x8b59bf943d00d1",
+  "cid": "39223701123432657",
+  "reviewsCount": 49,
+  "imagesCount": 12,
+  "imageCategories": [],
+  "scrapedAt": "2025-07-07T14:04:12.210Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "segunda-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "terça-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "quarta-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "quinta-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "sexta-feira",
+      "hours": "08:00 to 17:00"
+    },
+    {
+      "day": "sábado",
+      "hours": "Fechado"
+    },
+    {
+      "day": "domingo",
+      "hours": "Fechado"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Acessibilidade": [
+      {
+        "Assento com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Banheiro com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Entrada com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Estacionamento com acessibilidade para pessoas em cadeira de rodas": true
+      }
+    ],
+    "Comodidades": [
+      {
+        "Banheiro": true
+      },
+      {
+        "Banheiro de gênero neutro": true
+      }
+    ],
+    "Planejamento": [
+      {
+        "Necessário fazer agendamento": true
+      },
+      {
+        "É recomendado marcar hora": true
+      }
+    ],
+    "Pagamentos": [
+      {
+        "Cartão de crédito": true
+      },
+      {
+        "Pagamentos por dispositivo móvel via NFC": true
+      }
+    ],
+    "Crianças": [
+      {
+        "Sala de amamentação": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Cl%C3%ADnica%20ICOD&query_place_id=ChIJf1Vz5DkzWpMR0QA9lL9ZiwA",
+  "searchPageUrl": "https://www.google.com/maps/search/Cl%C3%ADnicas/@-15.830352604263538,-48.00593185,15z?hl=pt-BR",
+  "searchString": "Clínicas",
+  "language": "pt-BR",
+  "rank": 11,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMmWkukTXW_xBT7kgwnuyUO0GVSNoiM5zgwhDnM=w408-h272-k-no",
+  "kgmid": "/g/11lh64j_fv"
+},
+{
+  "title": "ENJOY",
+  "price": null,
+  "categoryName": "Clínica odontológica",
+  "address": "Av. Pau Brasil, LOTE 6 - SALA 1302 - Águas Claras, Brasília - DF, 71916-500, Brasil",
+  "neighborhood": "Águas Claras",
+  "street": "Av. Pau Brasil, LOTE 6 - SALA 1302",
+  "city": "Brasília",
+  "postalCode": "71916-500",
+  "state": "Distrito Federal",
+  "countryCode": "BR",
+  "website": "https://www.enjoyodontologiaespecializada.com/",
+  "phone": "+55 61 98190-4147",
+  "phoneUnformatted": "+5561981904147",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -15.8390067,
+    "lng": -48.0273615
+  },
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJm-j-AgQzWpMRrLXeW9mYb8w",
+  "categories": [
+    "Clínica odontológica"
+  ],
+  "fid": "0x935a330402fee89b:0xcc6f98d95bdeb5ac",
+  "cid": "14731160965468829100",
+  "reviewsCount": 165,
+  "imagesCount": 18,
+  "imageCategories": [],
+  "scrapedAt": "2025-07-07T14:04:12.210Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "segunda-feira",
+      "hours": "08:30 to 18:00"
+    },
+    {
+      "day": "terça-feira",
+      "hours": "08:30 to 18:00"
+    },
+    {
+      "day": "quarta-feira",
+      "hours": "08:30 to 18:00"
+    },
+    {
+      "day": "quinta-feira",
+      "hours": "08:30 to 18:00"
+    },
+    {
+      "day": "sexta-feira",
+      "hours": "08:30 to 18:00"
+    },
+    {
+      "day": "sábado",
+      "hours": "08:00 to 12:00"
+    },
+    {
+      "day": "domingo",
+      "hours": "Fechado"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Acessibilidade": [
+      {
+        "Banheiro com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Entrada com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Estacionamento com acessibilidade para pessoas em cadeira de rodas": true
+      }
+    ],
+    "Comodidades": [
+      {
+        "Banheiro": true
+      }
+    ],
+    "Planejamento": [
+      {
+        "Necessário fazer agendamento": true
+      },
+      {
+        "É recomendado marcar hora": true
+      }
+    ],
+    "Pagamentos": [
+      {
+        "Cartão de crédito": true
+      },
+      {
+        "Cartão de débito": true
+      },
+      {
+        "Pagamentos por dispositivo móvel via NFC": true
+      },
+      {
+        "Cartões de crédito": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=ENJOY&query_place_id=ChIJm-j-AgQzWpMRrLXeW9mYb8w",
+  "searchPageUrl": "https://www.google.com/maps/search/Cl%C3%ADnicas/@-15.830352604263538,-48.00593185,15z?hl=pt-BR",
+  "searchString": "Clínicas",
+  "language": "pt-BR",
+  "rank": 13,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipN5ELvVdHW5ui_yZ1q5S6QTrMz0I-qAPzXoOcRw=w426-h240-k-no",
+  "kgmid": "/g/11m30qwhk6"
+},
+{
+  "title": "CLÍNICA KABUSHA - Clínica multidisciplinar de Psicologia, Nutrição, TO e Fono.",
+  "price": null,
+  "categoryName": "Clínica especializada",
+  "address": "Ed. Albany Medical Center, R. 5 Norte, Lote 03 Andar Térreo, Loja 12 - Águas Claras (Norte, Brasília - DF, 71907-720, Brasil",
+  "neighborhood": "Águas Claras (Norte",
+  "street": "Ed. Albany Medical Center, R. 5 Norte, Lote 03 Andar Térreo, Loja 12",
+  "city": "Brasília",
+  "postalCode": "71907-720",
+  "state": "DF",
+  "countryCode": "BR",
+  "website": "https://www.kabusha.com.br/",
+  "phone": "+55 61 3877-9877",
+  "phoneUnformatted": "+556138779877",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -15.8344968,
+    "lng": -48.0122463
+  },
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJUTdL2cgzWpMRkPzip6vtiKY",
+  "categories": [
+    "Clínica especializada",
+    "Nutricionista",
+    "Terapeuta ocupacional",
+    "Fisioterapeuta",
+    "Psicólogo",
+    "Terapeuta psicomotor",
+    "Fonoaudiólogo"
+  ],
+  "fid": "0x935a33c8d94b3751:0xa688edaba7e2fc90",
+  "cid": "12000102528640547984",
+  "reviewsCount": 59,
+  "imagesCount": 61,
+  "imageCategories": [],
+  "scrapedAt": "2025-07-07T14:04:12.210Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "segunda-feira",
+      "hours": "08:00 to 19:00"
+    },
+    {
+      "day": "terça-feira",
+      "hours": "08:00 to 19:00"
+    },
+    {
+      "day": "quarta-feira",
+      "hours": "08:00 to 19:00"
+    },
+    {
+      "day": "quinta-feira",
+      "hours": "08:00 to 19:00"
+    },
+    {
+      "day": "sexta-feira",
+      "hours": "08:00 to 19:00"
+    },
+    {
+      "day": "sábado",
+      "hours": "08:00 to 13:00"
+    },
+    {
+      "day": "domingo",
+      "hours": "Fechado"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Da empresa": [
+      {
+        "Se identifica como uma empresa de empreendedoras": true
+      }
+    ],
+    "Opções de serviço": [
+      {
+        "Espanhol": true
+      }
+    ],
+    "Acessibilidade": [
+      {
+        "Banheiro com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Entrada com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Estacionamento com acessibilidade para pessoas em cadeira de rodas": true
+      }
+    ],
+    "Comodidades": [
+      {
+        "Banheiro": true
+      }
+    ],
+    "Público": [
+      {
+        "Empresa que acolhe a comunidade LGBTQ+": true
+      },
+      {
+        "Espaço seguro para pessoas transgênero": true
+      }
+    ],
+    "Planejamento": [
+      {
+        "Necessário fazer agendamento": true
+      },
+      {
+        "É recomendado marcar hora": true
+      }
+    ],
+    "Pagamentos": [
+      {
+        "Cartão de crédito": true
+      },
+      {
+        "Pagamentos por dispositivo móvel via NFC": true
+      }
+    ],
+    "Estacionamento": [
+      {
+        "Estacionamento coberto pago": true
+      },
+      {
+        "Estacionamento descoberto gratuito": true
+      },
+      {
+        "Estacionamento gratuito na rua": true
+      },
+      {
+        "Estacionamento no local": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=CL%C3%8DNICA%20KABUSHA%20-%20Cl%C3%ADnica%20multidisciplinar%20de%20Psicologia%2C%20Nutri%C3%A7%C3%A3o%2C%20TO%20e%20Fono.&query_place_id=ChIJUTdL2cgzWpMRkPzip6vtiKY",
+  "searchPageUrl": "https://www.google.com/maps/search/Cl%C3%ADnicas/@-15.830352604263538,-48.00593185,15z?hl=pt-BR",
+  "searchString": "Clínicas",
+  "language": "pt-BR",
+  "rank": 14,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOKvAsfLrizxvxCUQW4hS6ZjkV4qB90DNJVlqon=w408-h306-k-no",
+  "kgmid": "/g/11h4lk0gm8"
+},
+{
+  "title": "Aplique Vacinas",
+  "price": null,
+  "categoryName": "Consultor de saúde",
+  "address": "Edifício Vista Shopping, R. das Figueiras, 07 - Loja 08 - Águas Claras, Brasília - DF, 71906-750, Brasil",
+  "neighborhood": "Águas Claras",
+  "street": "Edifício Vista Shopping, R. das Figueiras, 07 - Loja 08",
+  "city": "Brasília",
+  "postalCode": "71906-750",
+  "state": "DF",
+  "countryCode": "BR",
+  "website": "https://suaapliquevacinas.com.br/",
+  "phone": "+55 61 99690-0004",
+  "phoneUnformatted": "+5561996900004",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -15.8303191,
+    "lng": -48.0105536
+  },
+  "totalScore": 4.9,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJz6h0eYgzWpMRQL3X0LsI8XI",
+  "categories": [
+    "Consultor de saúde",
+    "Imunologista",
+    "Clínica pediátrica",
+    "Clínica especializada"
+  ],
+  "fid": "0x935a33887974a8cf:0x72f108bbd0d7bd40",
+  "cid": "8282410792466758976",
+  "reviewsCount": 421,
+  "imagesCount": 31,
+  "imageCategories": [],
+  "scrapedAt": "2025-07-07T14:04:12.210Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "segunda-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "terça-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "quarta-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "quinta-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "sexta-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "sábado",
+      "hours": "08:00 to 12:00"
+    },
+    {
+      "day": "domingo",
+      "hours": "Fechado"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Da empresa": [
+      {
+        "Se identifica como uma empresa de empreendedoras": true
+      }
+    ],
+    "Opções de serviço": [
+      {
+        "Espanhol": true
+      }
+    ],
+    "Acessibilidade": [
+      {
+        "Assento com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Banheiro com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Entrada com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Estacionamento com acessibilidade para pessoas em cadeira de rodas": true
+      }
+    ],
+    "Público": [
+      {
+        "Empresa que acolhe a comunidade LGBTQ+": true
+      },
+      {
+        "Espaço seguro para pessoas transgênero": true
+      }
+    ],
+    "Pagamentos": [
+      {
+        "Cartão de crédito": true
+      },
+      {
+        "Pagamentos por dispositivo móvel via NFC": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Aplique%20Vacinas&query_place_id=ChIJz6h0eYgzWpMRQL3X0LsI8XI",
+  "searchPageUrl": "https://www.google.com/maps/search/Cl%C3%ADnicas/@-15.830352604263538,-48.00593185,15z?hl=pt-BR",
+  "searchString": "Clínicas",
+  "language": "pt-BR",
+  "rank": 15,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO07Yi1CWrtLp_N0LecgB6dMOJECC_0nsTTuQIE=w408-h306-k-no",
+  "kgmid": "/g/11pvtc0tn2"
+},
+{
+  "title": "Clínica BEM-VIE",
+  "price": null,
+  "categoryName": "Clínica de Fisioterapia",
+  "address": "e-business - Ed, Av. Pau Brasil, Salas 709/710 - Águas Claras, Brasília - DF, 71916-500, Brasil",
+  "neighborhood": "Águas Claras",
+  "street": "e-business - Ed, Av. Pau Brasil, Salas 709/710",
+  "city": "Brasília",
+  "postalCode": "71916-500",
+  "state": "DF",
+  "countryCode": "BR",
+  "website": "https://www.clinicabemvie.com.br/",
+  "phone": "+55 61 3542-7826",
+  "phoneUnformatted": "+556135427826",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -15.839017,
+    "lng": -48.02728
+  },
+  "totalScore": 4.8,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJn171624yWpMRvXn5KPsqy80",
+  "categories": [
+    "Clínica de Fisioterapia",
+    "Clínica de Quiropraxia",
+    "Osteopata",
+    "Fisioterapeuta",
+    "Estúdio de pilates",
+    "Psicanalista",
+    "Psicólogo",
+    "Terapeuta"
+  ],
+  "fid": "0x935a326eebf55e9f:0xcdcb2afb28f979bd",
+  "cid": "14828993456260086205",
+  "reviewsCount": 54,
+  "imagesCount": 17,
+  "imageCategories": [],
+  "scrapedAt": "2025-07-07T14:04:12.210Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "segunda-feira",
+      "hours": "07:00 to 21:00"
+    },
+    {
+      "day": "terça-feira",
+      "hours": "07:00 to 21:00"
+    },
+    {
+      "day": "quarta-feira",
+      "hours": "07:00 to 21:00"
+    },
+    {
+      "day": "quinta-feira",
+      "hours": "07:00 to 21:00"
+    },
+    {
+      "day": "sexta-feira",
+      "hours": "07:00 to 21:00"
+    },
+    {
+      "day": "sábado",
+      "hours": "Fechado"
+    },
+    {
+      "day": "domingo",
+      "hours": "Fechado"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Acessibilidade": [
+      {
+        "Banheiro com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Entrada com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Estacionamento com acessibilidade para pessoas em cadeira de rodas": true
+      }
+    ],
+    "Comodidades": [
+      {
+        "Banheiro": true
+      }
+    ],
+    "Planejamento": [
+      {
+        "É recomendado marcar hora": true
+      }
+    ],
+    "Pagamentos": [
+      {
+        "Cartão de crédito": true
+      },
+      {
+        "Pagamentos por dispositivo móvel via NFC": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Cl%C3%ADnica%20BEM-VIE&query_place_id=ChIJn171624yWpMRvXn5KPsqy80",
+  "searchPageUrl": "https://www.google.com/maps/search/Cl%C3%ADnicas/@-15.830352604263538,-48.00593185,15z?hl=pt-BR",
+  "searchString": "Clínicas",
+  "language": "pt-BR",
+  "rank": 19,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPyBAg8lcSpgQxBpwuK0ykOyl-zKBqDBmuanUZM=w408-h306-k-no",
+  "kgmid": "/g/11cn9sf8j1"
+},
+{
+  "title": "ÁtrioCor",
+  "price": null,
+  "categoryName": "Centro médico",
+  "address": "Edifício Albany Medical Center - R. 5 Norte, Sala 501 - Águas Claras, Brasília - DF, 71907-720, Brasil",
+  "neighborhood": "Águas Claras",
+  "street": "Edifício Albany Medical Center - R. 5 Norte, Sala 501",
+  "city": "Brasília",
+  "postalCode": "71907-720",
+  "state": "Distrito Federal",
+  "countryCode": "BR",
+  "website": "https://www.instagram.com/atriocor/",
+  "phone": "+55 61 3253-8932",
+  "phoneUnformatted": "+556132538932",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -15.8349073,
+    "lng": -48.0122601
+  },
+  "totalScore": 4.2,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ93mD6hAyWpMR2itSdEnkdMU",
+  "categories": [
+    "Centro médico",
+    "Cardiologista",
+    "Endocrinologista",
+    "Ginecologista",
+    "Clínica ortopédica",
+    "Fisioterapeuta",
+    "Radiologista"
+  ],
+  "fid": "0x935a3210ea8379f7:0xc574e44974522bda",
+  "cid": "14228248126905527258",
+  "reviewsCount": 208,
+  "imagesCount": 30,
+  "imageCategories": [],
+  "scrapedAt": "2025-07-07T14:04:12.210Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "segunda-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "terça-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "quarta-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "quinta-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "sexta-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "sábado",
+      "hours": "Fechado"
+    },
+    {
+      "day": "domingo",
+      "hours": "Fechado"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Da empresa": [
+      {
+        "Se identifica como uma empresa de empreendedoras": true
+      }
+    ],
+    "Acessibilidade": [
+      {
+        "Banheiro com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Entrada com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Estacionamento com acessibilidade para pessoas em cadeira de rodas": true
+      }
+    ],
+    "Comodidades": [
+      {
+        "Banheiro": true
+      }
+    ],
+    "Planejamento": [
+      {
+        "Necessário fazer agendamento": true
+      },
+      {
+        "É recomendado marcar hora": true
+      }
+    ],
+    "Pagamentos": [
+      {
+        "Cartão de crédito": true
+      },
+      {
+        "Pagamentos por dispositivo móvel via NFC": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=%C3%81trioCor&query_place_id=ChIJ93mD6hAyWpMR2itSdEnkdMU",
+  "searchPageUrl": "https://www.google.com/maps/search/Cl%C3%ADnicas/@-15.830352604263538,-48.00593185,15z?hl=pt-BR",
+  "searchString": "Clínicas",
+  "language": "pt-BR",
+  "rank": 20,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNa6GAbpoQHSDu-V6WElKxzoEApQjQcQHjKkpgs=w408-h510-k-no",
+  "kgmid": "/g/11c2km4_yn"
+},
+{
+  "title": "Centro Clínico Mantevida - Taguatinga (Taguatinga Sul)",
+  "price": null,
+  "categoryName": "Clínica de saúde mental",
+  "address": "QS 05 Rua 600 Lote 21 - Taguatinga, Brasília - DF, 72036-112, Brasil",
+  "neighborhood": "Taguatinga",
+  "street": "QS 05 Rua 600 Lote 21",
+  "city": "Brasília",
+  "postalCode": "72036-112",
+  "state": "Distrito Federal",
+  "countryCode": "BR",
+  "website": "https://centroclinicomantevida.com.br/?page_id=12",
+  "phone": "+55 61 3022-1111",
+  "phoneUnformatted": "+556130221111",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -15.8519419,
+    "lng": -48.0375849
+  },
+  "totalScore": 1.6,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ4RrIhT4zWpMRdNx6zzwuM6U",
+  "categories": [
+    "Clínica de saúde mental"
+  ],
+  "fid": "0x935a333e85c81ae1:0xa5332e3ccf7adc74",
+  "cid": "11903909078784203892",
+  "reviewsCount": 291,
+  "imagesCount": 39,
+  "imageCategories": [],
+  "scrapedAt": "2025-07-07T14:04:12.348Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "segunda-feira",
+      "hours": "07:15 to 18:00"
+    },
+    {
+      "day": "terça-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "quarta-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "quinta-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "sexta-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "sábado",
+      "hours": "08:00 to 12:00"
+    },
+    {
+      "day": "domingo",
+      "hours": "Fechado"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Acessibilidade": [
+      {
+        "Assento com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Banheiro com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Entrada com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Estacionamento com acessibilidade para pessoas em cadeira de rodas": true
+      }
+    ],
+    "Comodidades": [
+      {
+        "Banheiro": true
+      }
+    ],
+    "Planejamento": [
+      {
+        "Necessário fazer agendamento": true
+      },
+      {
+        "É recomendado marcar hora": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Centro%20Cl%C3%ADnico%20Mantevida%20-%20Taguatinga%20(Taguatinga%20Sul)&query_place_id=ChIJ4RrIhT4zWpMRdNx6zzwuM6U",
+  "searchPageUrl": "https://www.google.com/maps/search/Cl%C3%ADnicas/@-15.86342179573646,-48.04031245806993,15z?hl=pt-BR",
+  "searchString": "Clínicas",
+  "language": "pt-BR",
+  "rank": 10,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO3UvKSsiMy24pTbjftaq0QhKNP5VRVTF2uSpcp=w408-h272-k-no",
+  "kgmid": "/g/11vqrvyt90"
+},
+{
+  "title": "Centro Clínico Dr. Carlos Mangueira - Taguatinga",
+  "price": null,
+  "categoryName": "Complexo de condomínio",
+  "address": "QS 5 - Taguatinga, Brasília - DF, 72036-112, Brasil",
+  "neighborhood": "Taguatinga",
+  "street": "QS 5",
+  "city": "Brasília",
+  "postalCode": "72036-112",
+  "state": "Distrito Federal",
+  "countryCode": "BR",
+  "phone": "+55 61 3022-1111",
+  "phoneUnformatted": "+556130221111",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -15.8519828,
+    "lng": -48.0375501
+  },
+  "totalScore": 3.9,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJncV7NE0zWpMRRO9gVIL0-Cg",
+  "categories": [
+    "Complexo de condomínio",
+    "Policlínica"
+  ],
+  "fid": "0x935a334d347bc59d:0x28f8f4825460ef44",
+  "cid": "2952378396339924804",
+  "reviewsCount": 35,
+  "imagesCount": 17,
+  "imageCategories": [],
+  "scrapedAt": "2025-07-07T14:04:12.348Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "segunda-feira",
+      "hours": "Atendimento 24 horas"
+    },
+    {
+      "day": "terça-feira",
+      "hours": "Atendimento 24 horas"
+    },
+    {
+      "day": "quarta-feira",
+      "hours": "Atendimento 24 horas"
+    },
+    {
+      "day": "quinta-feira",
+      "hours": "Atendimento 24 horas"
+    },
+    {
+      "day": "sexta-feira",
+      "hours": "Atendimento 24 horas"
+    },
+    {
+      "day": "sábado",
+      "hours": "Atendimento 24 horas"
+    },
+    {
+      "day": "domingo",
+      "hours": "Atendimento 24 horas"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Acessibilidade": [
+      {
+        "Entrada com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Estacionamento com acessibilidade para pessoas em cadeira de rodas": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Centro%20Cl%C3%ADnico%20Dr.%20Carlos%20Mangueira%20-%20Taguatinga&query_place_id=ChIJncV7NE0zWpMRRO9gVIL0-Cg",
+  "searchPageUrl": "https://www.google.com/maps/search/Cl%C3%ADnicas/@-15.86342179573646,-48.04031245806993,15z?hl=pt-BR",
+  "searchString": "Clínicas",
+  "language": "pt-BR",
+  "rank": 12,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPAvmDZ8BaqNY8i1up9zgEC49ta_LUFWPxm_Gka=w408-h544-k-no",
+  "kgmid": "/g/11n7tfm8_d"
+},
+{
+  "title": "Clínica Viver: Densitometria Óssea, Mamografia, Punção (PAAF), Ecografia em Taguatinga",
+  "price": null,
+  "categoryName": "Centro de diagnóstico médico por imagem",
+  "address": "QS 03, Lotes 03/05/07, Edifício Pátio Capital, Sala 232/233 - Taguatinga, Brasília - DF, 71953-000, Brasil",
+  "neighborhood": "Taguatinga",
+  "street": "QS 03, Lotes 03/05/07, Edifício Pátio Capital, Sala 232/233",
+  "city": "Brasília",
+  "postalCode": "71953-000",
+  "state": "DF",
+  "countryCode": "BR",
+  "website": "http://clinicaviver.com/",
+  "phone": "+55 61 3034-8833",
+  "phoneUnformatted": "+556130348833",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -15.8442166,
+    "lng": -48.0440071
+  },
+  "totalScore": 4.3,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJf5dh5iEzWpMR3cN-QMSoSfk",
+  "categories": [
+    "Centro de diagnóstico médico por imagem"
+  ],
+  "fid": "0x935a3321e661977f:0xf949a8c4407ec3dd",
+  "cid": "17963074149593039837",
+  "reviewsCount": 276,
+  "imagesCount": 16,
+  "imageCategories": [],
+  "scrapedAt": "2025-07-07T14:04:12.348Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "segunda-feira",
+      "hours": "07:00 to 18:00"
+    },
+    {
+      "day": "terça-feira",
+      "hours": "07:00 to 18:00"
+    },
+    {
+      "day": "quarta-feira",
+      "hours": "07:00 to 18:00"
+    },
+    {
+      "day": "quinta-feira",
+      "hours": "07:00 to 18:00"
+    },
+    {
+      "day": "sexta-feira",
+      "hours": "07:00 to 18:00"
+    },
+    {
+      "day": "sábado",
+      "hours": "07:30 to 12:00"
+    },
+    {
+      "day": "domingo",
+      "hours": "Fechado"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Da empresa": [
+      {
+        "Se identifica como uma empresa de empreendedoras": true
+      }
+    ],
+    "Opções de serviço": [
+      {
+        "Inglês": true
+      }
+    ],
+    "Acessibilidade": [
+      {
+        "Banheiro com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Entrada com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Estacionamento com acessibilidade para pessoas em cadeira de rodas": true
+      }
+    ],
+    "Comodidades": [
+      {
+        "Banheiro": true
+      },
+      {
+        "Banheiro de gênero neutro": true
+      }
+    ],
+    "Público": [
+      {
+        "Empresa que acolhe a comunidade LGBTQ+": true
+      },
+      {
+        "Espaço seguro para pessoas transgênero": true
+      }
+    ],
+    "Planejamento": [
+      {
+        "É recomendado marcar hora": true
+      }
+    ],
+    "Pagamentos": [
+      {
+        "Cartão de crédito": true
+      },
+      {
+        "Pagamentos por dispositivo móvel via NFC": true
+      }
+    ],
+    "Crianças": [
+      {
+        "Sala de amamentação": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Cl%C3%ADnica%20Viver%3A%20Densitometria%20%C3%93ssea%2C%20Mamografia%2C%20Pun%C3%A7%C3%A3o%20(PAAF)%2C%20Ecografia%20em%20Taguatinga&query_place_id=ChIJf5dh5iEzWpMR3cN-QMSoSfk",
+  "searchPageUrl": "https://www.google.com/maps/search/Cl%C3%ADnicas/@-15.86342179573646,-48.04031245806993,15z?hl=pt-BR",
+  "searchString": "Clínicas",
+  "language": "pt-BR",
+  "rank": 17,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPYgIaYsTVLnmp15xJa0egCWF8br0rCFh5LG4UO=w408-h725-k-no",
+  "kgmid": "/g/11fpy7hqyq"
+},
+{
+  "title": "Clínica Angioven - Angiologia e Cirurgia Vascular (Especialista em tratamento de Lipedema e Varizes)",
+  "price": null,
+  "categoryName": "Cirurgião vascular",
+  "address": "QS 3 lote 3,4,5 loja 207 - Taguatinga, Brasília - DF, 71953-000, Brasil",
+  "neighborhood": "Taguatinga",
+  "street": "QS 3 lote 3,4,5 loja 207",
+  "city": "Brasília",
+  "postalCode": "71953-000",
+  "state": "DF",
+  "countryCode": "BR",
+  "website": "https://www.clinicaangioven.com/",
+  "phone": "+55 61 3536-1220",
+  "phoneUnformatted": "+556135361220",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -15.844458,
+    "lng": -48.043657
+  },
+  "totalScore": 4.7,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJFZKn_YgyWpMRzB_5XCPduGQ",
+  "categories": [
+    "Cirurgião vascular",
+    "Cardiologista",
+    "Dermatologista",
+    "Médico",
+    "Endocrinologista",
+    "Nutricionista",
+    "Clínica especializada",
+    "Cirurgião"
+  ],
+  "fid": "0x935a3288fda79215:0x64b8dd235cf91fcc",
+  "cid": "7257793943460978636",
+  "reviewsCount": 2437,
+  "imagesCount": 29,
+  "imageCategories": [],
+  "scrapedAt": "2025-07-07T14:04:12.349Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "segunda-feira",
+      "hours": "08:30 to 19:00"
+    },
+    {
+      "day": "terça-feira",
+      "hours": "08:00 to 19:00"
+    },
+    {
+      "day": "quarta-feira",
+      "hours": "08:00 to 19:00"
+    },
+    {
+      "day": "quinta-feira",
+      "hours": "08:00 to 19:00"
+    },
+    {
+      "day": "sexta-feira",
+      "hours": "08:00 to 19:00"
+    },
+    {
+      "day": "sábado",
+      "hours": "08:00 to 12:00"
+    },
+    {
+      "day": "domingo",
+      "hours": "Fechado"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Da empresa": [
+      {
+        "Se identifica como uma empresa de empreendedoras": true
+      }
+    ],
+    "Opções de serviço": [
+      {
+        "Inglês": true
+      }
+    ],
+    "Acessibilidade": [
+      {
+        "Banheiro com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Entrada com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Estacionamento com acessibilidade para pessoas em cadeira de rodas": true
+      }
+    ],
+    "Comodidades": [
+      {
+        "Banheiro": true
+      }
+    ],
+    "Público": [
+      {
+        "Empresa que acolhe a comunidade LGBTQ+": true
+      },
+      {
+        "Espaço seguro para pessoas transgênero": true
+      }
+    ],
+    "Planejamento": [
+      {
+        "Necessário fazer agendamento": true
+      },
+      {
+        "É recomendado marcar hora": true
+      }
+    ],
+    "Pagamentos": [
+      {
+        "Cartão de crédito": true
+      },
+      {
+        "Pagamentos por dispositivo móvel via NFC": true
+      }
+    ],
+    "Crianças": [
+      {
+        "Sala de amamentação": true
+      }
+    ],
+    "Estacionamento": [
+      {
+        "Estacionamento no local": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Cl%C3%ADnica%20Angioven%20-%20Angiologia%20e%20Cirurgia%20Vascular%20(Especialista%20em%20tratamento%20de%20Lipedema%20e%20Varizes)&query_place_id=ChIJFZKn_YgyWpMRzB_5XCPduGQ",
+  "searchPageUrl": "https://www.google.com/maps/search/Cl%C3%ADnicas/@-15.86342179573646,-48.04031245806993,15z?hl=pt-BR",
+  "searchString": "Clínicas",
+  "language": "pt-BR",
+  "rank": 20,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMiyMkkRRZJZuXgXWHmmVmxsKaNip65RpaFMoD8=w408-h408-k-no",
+  "kgmid": "/g/11c0vnd2gk"
+},
+{
+  "title": "Centro Clínico Diem",
+  "price": null,
+  "categoryName": "Médico",
+  "address": "Av. Pau Brasil, 11 - Águas Claras, Brasília - DF, 71926-000, Brasil",
+  "neighborhood": "Águas Claras",
+  "street": "Av. Pau Brasil, 11",
+  "city": "Brasília",
+  "postalCode": "71926-000",
+  "state": "Distrito Federal",
+  "countryCode": "BR",
+  "website": "http://lp.centroclinicodiem.com.br/centro-clinico/",
+  "phone": "+55 61 3597-8200",
+  "phoneUnformatted": "+556135978200",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -15.8411556,
+    "lng": -48.02786
+  },
+  "totalScore": 4.3,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ7eo0Nm4yWpMRlCCnvewIuho",
+  "categories": [
+    "Médico",
+    "Centro médico",
+    "Clínico geral",
+    "Laboratório médico",
+    "Consultório médico"
+  ],
+  "fid": "0x935a326e3634eaed:0x1aba08ecbda72094",
+  "cid": "1925861603541459092",
+  "reviewsCount": 707,
+  "reviewsDistribution": {
+    "oneStar": 95,
+    "twoStar": 22,
+    "threeStar": 11,
+    "fourStar": 49,
+    "fiveStar": 530
+  },
+  "imagesCount": 66,
+  "imageCategories": [],
+  "scrapedAt": "2025-07-07T14:04:13.532Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "segunda-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "terça-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "quarta-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "quinta-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "sexta-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "sábado",
+      "hours": "08:00 to 12:00"
+    },
+    {
+      "day": "domingo",
+      "hours": "Fechado"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Acessibilidade": [
+      {
+        "Assento com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Banheiro com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Entrada com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Estacionamento com acessibilidade para pessoas em cadeira de rodas": true
+      }
+    ],
+    "Comodidades": [
+      {
+        "Banheiro": true
+      }
+    ],
+    "Planejamento": [
+      {
+        "É recomendado marcar hora": true
+      }
+    ],
+    "Pagamentos": [
+      {
+        "Cartão de crédito": true
+      },
+      {
+        "Pagamentos por dispositivo móvel via NFC": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Centro%20Cl%C3%ADnico%20Diem&query_place_id=ChIJ7eo0Nm4yWpMRlCCnvewIuho",
+  "searchPageUrl": "https://www.google.com/maps/search/Cl%C3%ADnicas/@-15.830352604263538,-48.00593185,15z?hl=pt-BR",
+  "searchString": "Clínicas",
+  "language": "pt-BR",
+  "rank": 22,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqKw4FSde3stQJJDQU46gFsD0dphtrdvz8K06kGCQHf0sX9TZMea-Mkqh1qkRJWlCLL6DfHKOoya2errijzPfUu4UJL1uFRruzT8ZqgDkjvuCjxQAq4ILUFoHE3pfWME_mixucceQ=w408-h306-k-no",
+  "kgmid": "/g/11c55wxm4h"
+},
+{
+  "title": "Centro Clinico Danova",
+  "price": null,
+  "categoryName": "Médico",
+  "address": "Rua das paineiras, 06, Shopping 1 One , Loja 50 e 51 - Águas Claras, Brasília - DF, 71918-000, Brasil",
+  "neighborhood": "Águas Claras",
+  "street": "Rua das paineiras, 06, Shopping 1 One , Loja 50 e 51",
+  "city": "Brasília",
+  "postalCode": "71918-000",
+  "state": "DF",
+  "countryCode": "BR",
+  "website": "https://clinicadanova.com.br/",
+  "phone": "+55 800 591 2731",
+  "phoneUnformatted": null,
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -15.8382787,
+    "lng": -48.0325427
+  },
+  "totalScore": 4.9,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ0RLMBMMzWpMRpJCifns1O_w",
+  "categories": [
+    "Médico",
+    "Médico de fertilidade",
+    "Nutricionista",
+    "Centro de exames físicos",
+    "Médico esportivo"
+  ],
+  "fid": "0x935a33c304cc12d1:0xfc3b357b7ea290a4",
+  "cid": "18175179525705601188",
+  "reviewsCount": 331,
+  "reviewsDistribution": {
+    "oneStar": 11,
+    "twoStar": 1,
+    "threeStar": 0,
+    "fourStar": 1,
+    "fiveStar": 318
+  },
+  "imagesCount": 10,
+  "imageCategories": [],
+  "scrapedAt": "2025-07-07T14:04:13.532Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "segunda-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "terça-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "quarta-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "quinta-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "sexta-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "sábado",
+      "hours": "08:00 to 12:00"
+    },
+    {
+      "day": "domingo",
+      "hours": "Fechado"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Acessibilidade": [
+      {
+        "Banheiro com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Entrada com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Estacionamento com acessibilidade para pessoas em cadeira de rodas": true
+      }
+    ],
+    "Comodidades": [
+      {
+        "Banheiro": true
+      }
+    ],
+    "Planejamento": [
+      {
+        "É recomendado marcar hora": true
+      }
+    ],
+    "Pagamentos": [
+      {
+        "Cartão de crédito": true
+      },
+      {
+        "Pagamentos por dispositivo móvel via NFC": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Centro%20Clinico%20Danova&query_place_id=ChIJ0RLMBMMzWpMRpJCifns1O_w",
+  "searchPageUrl": "https://www.google.com/maps/search/Cl%C3%ADnicas/@-15.830352604263538,-48.00593185,15z?hl=pt-BR",
+  "searchString": "Clínicas",
+  "language": "pt-BR",
+  "rank": 27,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNYmmYX9DAQqYqd_4ktnc9su1LLISbuwOgUB8uh=w408-h544-k-no",
+  "kgmid": "/g/11n65tts1b"
+},
+{
+  "title": "Centro Médico Casagrande - Águas Claras",
+  "price": null,
+  "categoryName": "Médico",
+  "address": "R. 5 Norte, 3 - Loja 17(térreo - Águas Claras Norte, Brasília - DF, 71907-720, Brasil",
+  "neighborhood": "Águas Claras Norte",
+  "street": "R. 5 Norte, 3 - Loja 17(térreo",
+  "city": "Brasília",
+  "postalCode": "71907-720",
+  "state": "Distrito Federal",
+  "countryCode": "BR",
+  "website": "http://www.centromedicocasagrande.com.br/",
+  "phone": "+55 61 3797-8007",
+  "phoneUnformatted": "+556137978007",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -15.8349545,
+    "lng": -48.0122536
+  },
+  "totalScore": 3.1,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJPbhBZrIzWpMRXP1R-oeq9JE",
+  "categories": [
+    "Médico"
+  ],
+  "fid": "0x935a33b26641b83d:0x91f4aa87fa51fd5c",
+  "cid": "10517218530813934940",
+  "reviewsCount": 91,
+  "reviewsDistribution": {
+    "oneStar": 38,
+    "twoStar": 5,
+    "threeStar": 2,
+    "fourStar": 3,
+    "fiveStar": 43
+  },
+  "imagesCount": 14,
+  "imageCategories": [],
+  "scrapedAt": "2025-07-07T14:04:13.532Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "segunda-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "terça-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "quarta-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "quinta-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "sexta-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "sábado",
+      "hours": "08:00 to 12:00"
+    },
+    {
+      "day": "domingo",
+      "hours": "Fechado"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Acessibilidade": [
+      {
+        "Banheiro com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Entrada com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Estacionamento com acessibilidade para pessoas em cadeira de rodas": true
+      }
+    ],
+    "Comodidades": [
+      {
+        "Banheiro": true
+      }
+    ],
+    "Planejamento": [
+      {
+        "É recomendado marcar hora": true
+      }
+    ],
+    "Pagamentos": [
+      {
+        "Cartão de crédito": true
+      },
+      {
+        "Pagamentos por dispositivo móvel via NFC": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Centro%20M%C3%A9dico%20Casagrande%20-%20%C3%81guas%20Claras&query_place_id=ChIJPbhBZrIzWpMRXP1R-oeq9JE",
+  "searchPageUrl": "https://www.google.com/maps/search/Cl%C3%ADnicas/@-15.830352604263538,-48.00593185,15z?hl=pt-BR",
+  "searchString": "Clínicas",
+  "language": "pt-BR",
+  "rank": 36,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no4nA_SwZ0KUV5uUgrcN3RmOZ6BKB7lbldk0CH1MExEJKheRCBuhlvYr4mErPnZyh1WAhF_CBkOIlng3zp27MfN9pKdoKHasuWo8ue5khcATsUjafQP_KMNbW8Uv8TEx3IwJr9fHw=w408-h306-k-no",
+  "kgmid": "/g/11ff0r4qy9"
+},
+{
+  "title": "Clínica BioDigest",
+  "price": null,
+  "categoryName": "Centro médico",
+  "address": "Albany Medical Center - R. 5 Norte, 3 - Salas 104 a 107 ED - Águas Claras, Brasília - DF, 71907-720, Brasil",
+  "neighborhood": "Águas Claras",
+  "street": "Albany Medical Center - R. 5 Norte, 3 - Salas 104 a 107 ED",
+  "city": "Brasília",
+  "postalCode": "71907-720",
+  "state": "Distrito Federal",
+  "countryCode": "BR",
+  "website": "http://www.biodigest.com.br/",
+  "phone": "+55 61 3257-3131",
+  "phoneUnformatted": "+556132573131",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -15.835033,
+    "lng": -48.012201
+  },
+  "totalScore": 4.1,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJYXR8wBAyWpMR7NZYEpCn4RU",
+  "categories": [
+    "Centro médico"
+  ],
+  "fid": "0x935a3210c07c7461:0x15e1a7901258d6ec",
+  "cid": "1576725581781325548",
+  "reviewsCount": 306,
+  "reviewsDistribution": {
+    "oneStar": 63,
+    "twoStar": 5,
+    "threeStar": 7,
+    "fourStar": 7,
+    "fiveStar": 224
+  },
+  "imagesCount": 15,
+  "imageCategories": [],
+  "scrapedAt": "2025-07-07T14:04:13.533Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "segunda-feira",
+      "hours": "07:30 to 18:30"
+    },
+    {
+      "day": "terça-feira",
+      "hours": "07:30 to 18:30"
+    },
+    {
+      "day": "quarta-feira",
+      "hours": "07:30 to 18:30"
+    },
+    {
+      "day": "quinta-feira",
+      "hours": "07:30 to 18:30"
+    },
+    {
+      "day": "sexta-feira",
+      "hours": "07:30 to 18:30"
+    },
+    {
+      "day": "sábado",
+      "hours": "07:00 to 12:00"
+    },
+    {
+      "day": "domingo",
+      "hours": "Fechado"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Acessibilidade": [
+      {
+        "Banheiro com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Entrada com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Estacionamento com acessibilidade para pessoas em cadeira de rodas": true
+      }
+    ],
+    "Comodidades": [
+      {
+        "Banheiro": true
+      }
+    ],
+    "Planejamento": [
+      {
+        "É recomendado marcar hora": true
+      }
+    ],
+    "Pagamentos": [
+      {
+        "Cartão de crédito": true
+      },
+      {
+        "Cartão de débito": true
+      },
+      {
+        "Pagamentos por dispositivo móvel via NFC": true
+      },
+      {
+        "Cartões de crédito": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Cl%C3%ADnica%20BioDigest&query_place_id=ChIJYXR8wBAyWpMR7NZYEpCn4RU",
+  "searchPageUrl": "https://www.google.com/maps/search/Cl%C3%ADnicas/@-15.830352604263538,-48.00593185,15z?hl=pt-BR",
+  "searchString": "Clínicas",
+  "language": "pt-BR",
+  "rank": 37,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqBl534YWRbofPSdHMJqJWuAnpmlWpJymQRSsScPIzc9Dt3hHGpSi2e0FZgoAoxP7CjiNO9pW3k7vRtxVnP-G1Iu8nIp_fOGEI0tKPFAdPulMTulWQwDOVP4TMl0LX9Tjd-cznYWg=w408-h254-k-no",
+  "kgmid": "/g/11fy5df_3d"
+},
+{
+  "title": "Cardio Master",
+  "price": null,
+  "categoryName": "Clínica especializada",
+  "address": "Rua 05 Norte - Lote 3, Loja 9 Ed. Albany Center - Águas Claras, Brasília - DF, 71907-720, Brasil",
+  "neighborhood": "Águas Claras",
+  "street": "Rua 05 Norte - Lote 3, Loja 9 Ed. Albany Center",
+  "city": "Brasília",
+  "postalCode": "71907-720",
+  "state": "DF",
+  "countryCode": "BR",
+  "website": "http://cardiomaster.med.br/",
+  "phone": "+55 61 3526-1460",
+  "phoneUnformatted": "+556135261460",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -15.8348347,
+    "lng": -48.0122522
+  },
+  "totalScore": 4.7,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ5RzbDcMzWpMRfkn1vOTtfys",
+  "categories": [
+    "Clínica especializada",
+    "Cardiologista",
+    "Cardiologista pediátrico"
+  ],
+  "fid": "0x935a33c30ddb1ce5:0x2b7fede4bcf5497e",
+  "cid": "3134485432351672702",
+  "reviewsCount": 2704,
+  "reviewsDistribution": {
+    "oneStar": 104,
+    "twoStar": 27,
+    "threeStar": 60,
+    "fourStar": 192,
+    "fiveStar": 2321
+  },
+  "imagesCount": 27,
+  "imageCategories": [],
+  "scrapedAt": "2025-07-07T14:04:14.737Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "segunda-feira",
+      "hours": "07:30 to 19:00"
+    },
+    {
+      "day": "terça-feira",
+      "hours": "07:30 to 19:00"
+    },
+    {
+      "day": "quarta-feira",
+      "hours": "07:30 to 19:00"
+    },
+    {
+      "day": "quinta-feira",
+      "hours": "07:30 to 19:00"
+    },
+    {
+      "day": "sexta-feira",
+      "hours": "07:30 to 19:00"
+    },
+    {
+      "day": "sábado",
+      "hours": "07:30 to 12:00"
+    },
+    {
+      "day": "domingo",
+      "hours": "Fechado"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Opções de serviço": [
+      {
+        "Português": true
+      }
+    ],
+    "Acessibilidade": [
+      {
+        "Banheiro com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Entrada com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Estacionamento com acessibilidade para pessoas em cadeira de rodas": true
+      }
+    ],
+    "Comodidades": [
+      {
+        "Banheiro": true
+      }
+    ],
+    "Público": [
+      {
+        "Empresa que acolhe a comunidade LGBTQ+": true
+      },
+      {
+        "Espaço seguro para pessoas transgênero": true
+      }
+    ],
+    "Planejamento": [
+      {
+        "Necessário fazer agendamento": true
+      },
+      {
+        "É recomendado marcar hora": true
+      }
+    ],
+    "Pagamentos": [
+      {
+        "Cartão de crédito": true
+      },
+      {
+        "Pagamentos por dispositivo móvel via NFC": true
+      }
+    ],
+    "Crianças": [
+      {
+        "Sala de amamentação": true
+      }
+    ],
+    "Estacionamento": [
+      {
+        "Estacionamento coberto pago": true
+      },
+      {
+        "Estacionamento descoberto gratuito": true
+      },
+      {
+        "Estacionamento gratuito na rua": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Cardio%20Master&query_place_id=ChIJ5RzbDcMzWpMRfkn1vOTtfys",
+  "searchPageUrl": "https://www.google.com/maps/search/Cl%C3%ADnicas/@-15.830352604263538,-48.00593185,15z?hl=pt-BR",
+  "searchString": "Clínicas",
+  "language": "pt-BR",
+  "rank": 46,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMaHs59pDqd8dsjB8f7JfioAQVcpUFXMhZ1oV9w=w408-h272-k-no",
+  "kgmid": "/g/11gz8l0926"
+},
+{
+  "title": "Clínica Dr. Gabriel Cabral",
+  "price": null,
+  "categoryName": "Clínica especializada",
+  "address": "R. 5 Norte, 3 - Sala 313 e 314 - Águas Claras, Brasília - DF, 71907-720, Brasil",
+  "neighborhood": "Águas Claras",
+  "street": "R. 5 Norte, 3 - Sala 313 e 314",
+  "city": "Brasília",
+  "postalCode": "71907-720",
+  "state": "Distrito Federal",
+  "countryCode": "BR",
+  "website": "http://drgabrielcabral.com.br/",
+  "phone": "+55 61 3553-0420",
+  "phoneUnformatted": "+556135530420",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -15.8349545,
+    "lng": -48.0122536
+  },
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ9z77phszWpMRnWlSpPkp2Tw",
+  "categories": [
+    "Clínica especializada"
+  ],
+  "fid": "0x935a331ba6fb3ef7:0x3cd929f9a452699d",
+  "cid": "4384581864402348445",
+  "reviewsCount": 3,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 3
+  },
+  "imagesCount": 1,
+  "imageCategories": [],
+  "scrapedAt": "2025-07-07T14:04:14.737Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "segunda-feira",
+      "hours": "08:00 to 22:00"
+    },
+    {
+      "day": "terça-feira",
+      "hours": "08:00 to 22:00"
+    },
+    {
+      "day": "quarta-feira",
+      "hours": "08:00 to 22:00"
+    },
+    {
+      "day": "quinta-feira",
+      "hours": "08:00 to 22:00"
+    },
+    {
+      "day": "sexta-feira",
+      "hours": "08:00 to 22:00"
+    },
+    {
+      "day": "sábado",
+      "hours": "08:00 to 12:00"
+    },
+    {
+      "day": "domingo",
+      "hours": "Fechado"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Acessibilidade": [
+      {
+        "Banheiro com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Entrada com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Estacionamento com acessibilidade para pessoas em cadeira de rodas": true
+      }
+    ],
+    "Comodidades": [
+      {
+        "Banheiro": true
+      }
+    ],
+    "Planejamento": [
+      {
+        "É recomendado marcar hora": true
+      }
+    ],
+    "Pagamentos": [
+      {
+        "Cartão de crédito": true
+      },
+      {
+        "Pagamentos por dispositivo móvel via NFC": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Cl%C3%ADnica%20Dr.%20Gabriel%20Cabral&query_place_id=ChIJ9z77phszWpMRnWlSpPkp2Tw",
+  "searchPageUrl": "https://www.google.com/maps/search/Cl%C3%ADnicas/@-15.830352604263538,-48.00593185,15z?hl=pt-BR",
+  "searchString": "Clínicas",
+  "language": "pt-BR",
+  "rank": 48,
+  "isAdvertisement": false,
+  "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=GqqBaGmqhO-ixjqgpV8AjQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=273.70178&pitch=0&thumbfov=100",
+  "kgmid": "/g/11frp88x3k"
+},
+{
+  "title": "Laboratório LAC - Águas Claras",
+  "price": null,
+  "categoryName": "Laboratório",
+  "address": "Torre B ONE MALL - R. das Paineiras, 6 - Lote 06, loja 68 - Águas Claras, Brasília - DF, 71918-000, Brasil",
+  "neighborhood": "Águas Claras",
+  "street": "Torre B ONE MALL - R. das Paineiras, 6 - Lote 06, loja 68",
+  "city": "Brasília",
+  "postalCode": "71918-000",
+  "state": "Distrito Federal",
+  "countryCode": "BR",
+  "phone": "+55 61 3080-1745",
+  "phoneUnformatted": "+556130801745",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -15.8384149,
+    "lng": -48.0327101
+  },
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJiYyvDhgzWpMR8xozJa-KwAc",
+  "categories": [
+    "Laboratório"
+  ],
+  "fid": "0x935a33180eaf8c89:0x7c08aaf25331af3",
+  "cid": "558598838641957619",
+  "reviewsCount": 1662,
+  "reviewsDistribution": {
+    "oneStar": 4,
+    "twoStar": 2,
+    "threeStar": 2,
+    "fourStar": 11,
+    "fiveStar": 1643
+  },
+  "imagesCount": 33,
+  "imageCategories": [],
+  "scrapedAt": "2025-07-07T14:04:14.737Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "segunda-feira",
+      "hours": "07:00 to 17:00"
+    },
+    {
+      "day": "terça-feira",
+      "hours": "07:00 to 17:00"
+    },
+    {
+      "day": "quarta-feira",
+      "hours": "07:00 to 17:00"
+    },
+    {
+      "day": "quinta-feira",
+      "hours": "07:00 to 17:00"
+    },
+    {
+      "day": "sexta-feira",
+      "hours": "07:00 to 17:00"
+    },
+    {
+      "day": "sábado",
+      "hours": "07:00 to 12:00"
+    },
+    {
+      "day": "domingo",
+      "hours": "Fechado"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Acessibilidade": [
+      {
+        "Entrada com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Estacionamento com acessibilidade para pessoas em cadeira de rodas": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Laborat%C3%B3rio%20LAC%20-%20%C3%81guas%20Claras&query_place_id=ChIJiYyvDhgzWpMR8xozJa-KwAc",
+  "searchPageUrl": "https://www.google.com/maps/search/Cl%C3%ADnicas/@-15.830352604263538,-48.00593185,15z?hl=pt-BR",
+  "searchString": "Clínicas",
+  "language": "pt-BR",
+  "rank": 49,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPzyPQgZ1EHmVAcDJ-bUrLKnhzn358hOBl2wO3J=w408-h544-k-no",
+  "kgmid": "/g/11s2k_5pv1"
+},
+{
+  "title": "Fisio Mais",
+  "price": null,
+  "categoryName": "Clínica de Fisioterapia",
+  "address": "Ed Real Panoramic, Edifício Real Panoramic - Av. Flamboyant, 24 subsolo - Águas Claras, Brasília - DF, 71900-900, Brasil",
+  "neighborhood": "Águas Claras",
+  "street": "Ed Real Panoramic, Edifício Real Panoramic - Av. Flamboyant, 24 subsolo",
+  "city": "Brasília",
+  "postalCode": "71900-900",
+  "state": "Distrito Federal",
+  "countryCode": "BR",
+  "website": "http://www.fisiomaissaudedf.com.br/",
+  "phone": "+55 61 99676-8965",
+  "phoneUnformatted": "+5561996768965",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -15.8321411,
+    "lng": -48.035177
+  },
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJWe5DFqkzWpMROUN8VC7Auco",
+  "categories": [
+    "Clínica de Fisioterapia"
+  ],
+  "fid": "0x935a33a91643ee59:0xcab9c02e547c4339",
+  "cid": "14607918171571372857",
+  "reviewsCount": 75,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 2,
+    "fiveStar": 73
+  },
+  "imagesCount": 50,
+  "imageCategories": [],
+  "scrapedAt": "2025-07-07T14:04:14.737Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "segunda-feira",
+      "hours": "08:00 to 19:00"
+    },
+    {
+      "day": "terça-feira",
+      "hours": "08:00 to 19:00"
+    },
+    {
+      "day": "quarta-feira",
+      "hours": "08:00 to 19:00"
+    },
+    {
+      "day": "quinta-feira",
+      "hours": "08:00 to 19:00"
+    },
+    {
+      "day": "sexta-feira",
+      "hours": "08:00 to 19:00"
+    },
+    {
+      "day": "sábado",
+      "hours": "Fechado"
+    },
+    {
+      "day": "domingo",
+      "hours": "Fechado"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Acessibilidade": [
+      {
+        "Banheiro com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Entrada com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Estacionamento com acessibilidade para pessoas em cadeira de rodas": true
+      }
+    ],
+    "Comodidades": [
+      {
+        "Banheiro": true
+      }
+    ],
+    "Planejamento": [
+      {
+        "É recomendado marcar hora": true
+      }
+    ],
+    "Pagamentos": [
+      {
+        "Cartão de crédito": true
+      },
+      {
+        "Pagamentos por dispositivo móvel via NFC": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Fisio%20Mais&query_place_id=ChIJWe5DFqkzWpMROUN8VC7Auco",
+  "searchPageUrl": "https://www.google.com/maps/search/Cl%C3%ADnicas/@-15.830352604263538,-48.00593185,15z?hl=pt-BR",
+  "searchString": "Clínicas",
+  "language": "pt-BR",
+  "rank": 50,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq-PYcG3U01AleTeIrwL0wTXj_5zBb1tkc3Yk0Olb5gHfqWw4Ah6rLQHVzBMrsxkeeFtoFfAog4uw0py4NB9qpB7S_7oTiolisHzo9iK8XvIivQLUb0UOreeebkYKCj4W-jY3kL_AHy4SiV=w408-h408-k-no",
+  "kgmid": "/g/11t3h0gh0x"
+},
+{
+  "title": "Clínica Neurônios",
+  "price": null,
+  "categoryName": "Centro comercial",
+  "address": "Ed. Le Quartier - Av. Pau Brasil, 10 - sala 1232 - Águas Claras, Brasília - DF, 71926-000, Brasil",
+  "neighborhood": "Águas Claras",
+  "street": "Ed. Le Quartier - Av. Pau Brasil, 10 - sala 1232",
+  "city": "Brasília",
+  "postalCode": "71926-000",
+  "state": "Distrito Federal",
+  "countryCode": "BR",
+  "website": "https://clinicaneuronios.com.br/",
+  "phone": "+55 61 98144-3523",
+  "phoneUnformatted": "+5561981443523",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -15.8405589,
+    "lng": -48.0272848
+  },
+  "totalScore": 4.8,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJn4CIHwMzWpMRWByiIYyixIo",
+  "categories": [
+    "Centro comercial"
+  ],
+  "fid": "0x935a33031f88809f:0x8ac4a28c21a21c58",
+  "cid": "9999295795412737112",
+  "reviewsCount": 21,
+  "reviewsDistribution": {
+    "oneStar": 1,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 20
+  },
+  "imagesCount": 5,
+  "imageCategories": [],
+  "scrapedAt": "2025-07-07T14:04:14.737Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "segunda-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "terça-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "quarta-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "quinta-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "sexta-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "sábado",
+      "hours": "08:00 to 12:00"
+    },
+    {
+      "day": "domingo",
+      "hours": "Fechado"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Acessibilidade": [
+      {
+        "Entrada com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Estacionamento com acessibilidade para pessoas em cadeira de rodas": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Cl%C3%ADnica%20Neur%C3%B4nios&query_place_id=ChIJn4CIHwMzWpMRWByiIYyixIo",
+  "searchPageUrl": "https://www.google.com/maps/search/Cl%C3%ADnicas/@-15.830352604263538,-48.00593185,15z?hl=pt-BR",
+  "searchString": "Clínicas",
+  "language": "pt-BR",
+  "rank": 51,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOawRxq7sbqoPCSzJVTvv1MFzbRbmJLrpqR0cij=w408-h384-k-no",
+  "kgmid": "/g/11rzp_12cq"
+},
+{
+  "title": "Conectar Clínicas Integradas",
+  "price": null,
+  "categoryName": "Centro médico",
+  "address": "R. 19 Norte, 6/8 - sala 37 - Águas Claras, Brasília - DF, 71900-100, Brasil",
+  "neighborhood": "Águas Claras",
+  "street": "R. 19 Norte, 6/8 - sala 37",
+  "city": "Brasília",
+  "postalCode": "71900-100",
+  "state": "Distrito Federal",
+  "countryCode": "BR",
+  "website": "https://conectarclinicasintegradas.com.br/",
+  "phone": "+55 61 99689-8342",
+  "phoneUnformatted": "+5561996898342",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -15.8392587,
+    "lng": -48.023951
+  },
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJDUnZUQAzWpMR8yws0vIfwQQ",
+  "categories": [
+    "Centro médico"
+  ],
+  "fid": "0x935a330051d9490d:0x4c11ff2d22c2cf3",
+  "cid": "342590174425525491",
+  "reviewsCount": 1,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 1
+  },
+  "imagesCount": 1,
+  "imageCategories": [],
+  "scrapedAt": "2025-07-07T14:04:14.737Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "segunda-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "terça-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "quarta-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "quinta-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "sexta-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "sábado",
+      "hours": "08:00 to 12:00"
+    },
+    {
+      "day": "domingo",
+      "hours": "Fechado"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Acessibilidade": [
+      {
+        "Banheiro com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Entrada com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Estacionamento com acessibilidade para pessoas em cadeira de rodas": true
+      }
+    ],
+    "Comodidades": [
+      {
+        "Banheiro": true
+      }
+    ],
+    "Planejamento": [
+      {
+        "É recomendado marcar hora": true
+      }
+    ],
+    "Pagamentos": [
+      {
+        "Cartão de crédito": true
+      },
+      {
+        "Pagamentos por dispositivo móvel via NFC": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Conectar%20Cl%C3%ADnicas%20Integradas&query_place_id=ChIJDUnZUQAzWpMR8yws0vIfwQQ",
+  "searchPageUrl": "https://www.google.com/maps/search/Cl%C3%ADnicas/@-15.830352604263538,-48.00593185,15z?hl=pt-BR",
+  "searchString": "Clínicas",
+  "language": "pt-BR",
+  "rank": 53,
+  "isAdvertisement": false,
+  "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=xUYjvphPUhiftwlmpY8q0Q&cb_client=search.gws-prod.gps&w=408&h=240&yaw=48.997677&pitch=0&thumbfov=100",
+  "kgmid": "/g/11wc9_cqkm"
+},
+{
+  "title": "Di Fiori Pediatria",
+  "price": null,
+  "categoryName": "Pediatra",
+  "address": "Rua 5 Norte, Lote 3, Loja 11 Albany Medical Center - Águas Claras, Brasília - DF, 71907-720, Brasil",
+  "neighborhood": "Águas Claras",
+  "street": "Rua 5 Norte, Lote 3, Loja 11 Albany Medical Center",
+  "city": "Brasília",
+  "postalCode": "71907-720",
+  "state": "DF",
+  "countryCode": "BR",
+  "website": "https://www.difioripediatria.com.br/",
+  "phone": "+55 61 98122-7488",
+  "phoneUnformatted": "+5561981227488",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -15.8349545,
+    "lng": -48.0122536
+  },
+  "totalScore": 4.9,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJZUm_WgMzWpMR6MOl0aO5VLo",
+  "categories": [
+    "Pediatra",
+    "Alergista",
+    "Nutrólogo",
+    "Imunologista",
+    "Dermatologista pediátrico",
+    "Cirurgião pediátrico"
+  ],
+  "fid": "0x935a33035abf4965:0xba54b9a3d1a5c3e8",
+  "cid": "13426560502346400744",
+  "reviewsCount": 155,
+  "reviewsDistribution": {
+    "oneStar": 2,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 1,
+    "fiveStar": 152
+  },
+  "imagesCount": 14,
+  "imageCategories": [],
+  "scrapedAt": "2025-07-07T14:04:14.737Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "segunda-feira",
+      "hours": "08:00 to 12:30, 13:30 to 17:30"
+    },
+    {
+      "day": "terça-feira",
+      "hours": "08:00 to 12:30, 13:30 to 17:30"
+    },
+    {
+      "day": "quarta-feira",
+      "hours": "08:00 to 12:30, 13:30 to 17:30"
+    },
+    {
+      "day": "quinta-feira",
+      "hours": "08:00 to 12:30, 13:30 to 17:30"
+    },
+    {
+      "day": "sexta-feira",
+      "hours": "08:00 to 12:30, 13:30 to 17:30"
+    },
+    {
+      "day": "sábado",
+      "hours": "Fechado"
+    },
+    {
+      "day": "domingo",
+      "hours": "Fechado"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Acessibilidade": [
+      {
+        "Banheiro com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Entrada com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Estacionamento com acessibilidade para pessoas em cadeira de rodas": true
+      }
+    ],
+    "Comodidades": [
+      {
+        "Banheiro": true
+      }
+    ],
+    "Planejamento": [
+      {
+        "Necessário fazer agendamento": true
+      },
+      {
+        "É recomendado marcar hora": true
+      }
+    ],
+    "Pagamentos": [
+      {
+        "Cartão de crédito": true
+      },
+      {
+        "Pagamentos por dispositivo móvel via NFC": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Di%20Fiori%20Pediatria&query_place_id=ChIJZUm_WgMzWpMR6MOl0aO5VLo",
+  "searchPageUrl": "https://www.google.com/maps/search/Cl%C3%ADnicas/@-15.830352604263538,-48.00593185,15z?hl=pt-BR",
+  "searchString": "Clínicas",
+  "language": "pt-BR",
+  "rank": 54,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO0vZdWmNlSNgIcoVyb4gtTfoh1m9YaSaejL_rG=w426-h240-k-no",
+  "kgmid": "/g/11r2jwgrsq"
+},
+{
+  "title": "Neocentro Vacinas",
+  "price": null,
+  "categoryName": "Clínica especializada",
+  "address": "250 Av. das Araucárias, 2005 - lote 1885 71936 - Águas Claras, Brasília - DF, 70297-400, Brasil",
+  "neighborhood": "Águas Claras",
+  "street": "250 Av. das Araucárias, 2005 - lote 1885 71936",
+  "city": "Brasília",
+  "postalCode": "70297-400",
+  "state": "DF",
+  "countryCode": "BR",
+  "website": "https://neocentrovacinas.com.br/",
+  "phone": "+55 61 3568-7466",
+  "phoneUnformatted": "+556135687466",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -15.841726,
+    "lng": -48.0234913
+  },
+  "totalScore": 4.7,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJWR8YZEczWpMRYX3SgZ9FSfU",
+  "categories": [
+    "Clínica especializada"
+  ],
+  "fid": "0x935a334764181f59:0xf549459f81d27d61",
+  "cid": "17674734763972394337",
+  "reviewsCount": 86,
+  "reviewsDistribution": {
+    "oneStar": 4,
+    "twoStar": 0,
+    "threeStar": 3,
+    "fourStar": 0,
+    "fiveStar": 79
+  },
+  "imagesCount": 13,
+  "imageCategories": [],
+  "scrapedAt": "2025-07-07T14:04:14.737Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "segunda-feira",
+      "hours": "09:00 to 21:00"
+    },
+    {
+      "day": "terça-feira",
+      "hours": "09:00 to 21:00"
+    },
+    {
+      "day": "quarta-feira",
+      "hours": "09:00 to 21:00"
+    },
+    {
+      "day": "quinta-feira",
+      "hours": "09:00 to 21:00"
+    },
+    {
+      "day": "sexta-feira",
+      "hours": "09:00 to 21:00"
+    },
+    {
+      "day": "sábado",
+      "hours": "09:00 to 21:00"
+    },
+    {
+      "day": "domingo",
+      "hours": "Fechado"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Acessibilidade": [
+      {
+        "Banheiro com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Entrada com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Estacionamento com acessibilidade para pessoas em cadeira de rodas": true
+      }
+    ],
+    "Comodidades": [
+      {
+        "Banheiro": true
+      }
+    ],
+    "Pagamentos": [
+      {
+        "Cartão de crédito": true
+      },
+      {
+        "Pagamentos por dispositivo móvel via NFC": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Neocentro%20Vacinas&query_place_id=ChIJWR8YZEczWpMRYX3SgZ9FSfU",
+  "searchPageUrl": "https://www.google.com/maps/search/Cl%C3%ADnicas/@-15.830352604263538,-48.00593185,15z?hl=pt-BR",
+  "searchString": "Clínicas",
+  "language": "pt-BR",
+  "rank": 55,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nokHahPBmJJQV9ybqsiqT8pZeVAeeMM8RYdT6CvOKm_nu243GF98SQvl86g7Hon4XnGLF_nUF9rmDD038whyxr4wQEgO-TIMZeRPVG-FtGQryYQZoIOqqgueJ4cBk1pzmHP0__N=w426-h240-k-no",
+  "kgmid": "/g/11h_0vrw3w"
+},
+{
+  "title": "Clínica Mind - Psiquiatra e Neurologia",
+  "price": null,
+  "categoryName": "Clínica de saúde mental",
+  "address": "Avenida Pau Brasil, Lote 06, Sala 1205. Edifício E-Business - (em frente à estação Águas Claras do Metrô) - Águas Claras Norte, Brasília - DF, 71916-500, Brasil",
+  "neighborhood": "Águas Claras Norte",
+  "street": "Avenida Pau Brasil, Lote 06, Sala 1205. Edifício E-Business - (em frente à estação Águas Claras do Metrô)",
+  "city": "Brasília",
+  "postalCode": "71916-500",
+  "state": "DF",
+  "countryCode": "BR",
+  "website": "http://clinicamind.com.br/",
+  "phone": "+55 61 3548-4805",
+  "phoneUnformatted": "+556135484805",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -15.839095,
+    "lng": -48.027216
+  },
+  "totalScore": 4,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJF3OZ624yWpMRRNlVsc7-ttE",
+  "categories": [
+    "Clínica de saúde mental",
+    "Psiquiatra"
+  ],
+  "fid": "0x935a326eeb997317:0xd1b6feceb155d944",
+  "cid": "15111545763380189508",
+  "reviewsCount": 168,
+  "reviewsDistribution": {
+    "oneStar": 37,
+    "twoStar": 2,
+    "threeStar": 3,
+    "fourStar": 3,
+    "fiveStar": 123
+  },
+  "imagesCount": 13,
+  "imageCategories": [],
+  "scrapedAt": "2025-07-07T14:04:14.737Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "segunda-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "terça-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "quarta-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "quinta-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "sexta-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "sábado",
+      "hours": "Fechado"
+    },
+    {
+      "day": "domingo",
+      "hours": "Fechado"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Acessibilidade": [
+      {
+        "Banheiro com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Entrada com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Estacionamento com acessibilidade para pessoas em cadeira de rodas": true
+      }
+    ],
+    "Comodidades": [
+      {
+        "Banheiro": true
+      }
+    ],
+    "Público": [
+      {
+        "Espaço seguro para pessoas transgênero": true
+      }
+    ],
+    "Planejamento": [
+      {
+        "Necessário fazer agendamento": true
+      },
+      {
+        "É recomendado marcar hora": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Cl%C3%ADnica%20Mind%20-%20Psiquiatra%20e%20Neurologia&query_place_id=ChIJF3OZ624yWpMRRNlVsc7-ttE",
+  "searchPageUrl": "https://www.google.com/maps/search/Cl%C3%ADnicas/@-15.830352604263538,-48.00593185,15z?hl=pt-BR",
+  "searchString": "Clínicas",
+  "language": "pt-BR",
+  "rank": 57,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPgwLnvtVBZ_lsDUPT7eug5GlJddw6_Mbe-grG1=w408-h272-k-no",
+  "kgmid": "/g/11bzt7svm3"
+},
+{
+  "title": "Luminnus Psicologia",
+  "price": null,
+  "categoryName": "Psicólogo",
+  "address": "Distrito Federal, Ed. E Business - Av. Pau Brasil, Sala 1610 - Águas Claras, Brasília - DF, 71916-500, Brasil",
+  "neighborhood": "Águas Claras",
+  "street": "Distrito Federal, Ed. E Business - Av. Pau Brasil, Sala 1610",
+  "city": "Brasília",
+  "postalCode": "71916-500",
+  "state": "Distrito Federal",
+  "countryCode": "BR",
+  "website": "https://luminnuspsicologia.com.br/",
+  "phone": "+55 61 3877-8080",
+  "phoneUnformatted": "+556138778080",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -15.8390318,
+    "lng": -48.0272239
+  },
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJXcxFwq8zWpMRtKJEZE2iR98",
+  "categories": [
+    "Psicólogo",
+    "Terapeuta de análise comportamental aplicada",
+    "Psicólogo infantil",
+    "Terapeuta Gestalt",
+    "Clínica de psicopedagogia"
+  ],
+  "fid": "0x935a33afc245cc5d:0xdf47a24d6444a2b4",
+  "cid": "16089006647082787508",
+  "reviewsCount": 77,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 77
+  },
+  "imagesCount": 12,
+  "imageCategories": [],
+  "scrapedAt": "2025-07-07T14:04:14.737Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "segunda-feira",
+      "hours": "08:00 to 22:00"
+    },
+    {
+      "day": "terça-feira",
+      "hours": "08:00 to 22:00"
+    },
+    {
+      "day": "quarta-feira",
+      "hours": "08:00 to 22:00"
+    },
+    {
+      "day": "quinta-feira",
+      "hours": "08:00 to 22:00"
+    },
+    {
+      "day": "sexta-feira",
+      "hours": "08:00 to 22:00"
+    },
+    {
+      "day": "sábado",
+      "hours": "08:00 to 13:00"
+    },
+    {
+      "day": "domingo",
+      "hours": "Fechado"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Da empresa": [
+      {
+        "Se identifica como uma empresa de empreendedoras": true
+      }
+    ],
+    "Opções de serviço": [
+      {
+        "Português": true
+      }
+    ],
+    "Acessibilidade": [
+      {
+        "Banheiro com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Entrada com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Estacionamento com acessibilidade para pessoas em cadeira de rodas": true
+      }
+    ],
+    "Comodidades": [
+      {
+        "Banheiro": true
+      }
+    ],
+    "Público": [
+      {
+        "Empresa que acolhe a comunidade LGBTQ+": true
+      },
+      {
+        "Espaço seguro para pessoas transgênero": true
+      }
+    ],
+    "Planejamento": [
+      {
+        "Necessário fazer agendamento": true
+      },
+      {
+        "É recomendado marcar hora": true
+      }
+    ],
+    "Estacionamento": [
+      {
+        "Estacionamento coberto pago": true
+      },
+      {
+        "Estacionamento gratuito na rua": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Luminnus%20Psicologia&query_place_id=ChIJXcxFwq8zWpMRtKJEZE2iR98",
+  "searchPageUrl": "https://www.google.com/maps/search/Cl%C3%ADnicas/@-15.830352604263538,-48.00593185,15z?hl=pt-BR",
+  "searchString": "Clínicas",
+  "language": "pt-BR",
+  "rank": 58,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqV9mh5ZYgJDtoE7irNhoafl2z2Kq3N-kf5S1jZucpnSmUA2ncUZl7vJokm8HHC4w7xAecXMYP-2wJTH6ElAyivuyqbpJjGl_CTuvowCMDvsl8FEB1SBqYDx0cwfQmS7fjVwPw_5Q=w408-h725-k-no",
+  "kgmid": "/g/11g2wr204k"
+},
+{
+  "title": "Fisioterapia Márcia Luque",
+  "price": null,
+  "categoryName": "Clínica de Fisioterapia",
+  "address": "Avenida Pau Brasil 10, Le Quartier, Sala 508 - Águas Claras, Brasília - DF, 71926-000, Brasil",
+  "neighborhood": "Águas Claras",
+  "street": "Avenida Pau Brasil 10, Le Quartier, Sala 508",
+  "city": "Brasília",
+  "postalCode": "71926-000",
+  "state": "DF",
+  "countryCode": "BR",
+  "phone": "+55 61 98321-5640",
+  "phoneUnformatted": "+5561983215640",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -15.8405589,
+    "lng": -48.0272761
+  },
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJeWqGrdMzWpMRQNnVtdr-Xvc",
+  "categories": [
+    "Clínica de Fisioterapia"
+  ],
+  "fid": "0x935a33d3ad866a79:0xf75efedab5d5d940",
+  "cid": "17824964590486018368",
+  "reviewsCount": 118,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 118
+  },
+  "imagesCount": 8,
+  "imageCategories": [],
+  "scrapedAt": "2025-07-07T14:04:14.738Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "segunda-feira",
+      "hours": "07:00 to 20:00"
+    },
+    {
+      "day": "terça-feira",
+      "hours": "07:00 to 20:00"
+    },
+    {
+      "day": "quarta-feira",
+      "hours": "07:00 to 20:00"
+    },
+    {
+      "day": "quinta-feira",
+      "hours": "07:00 to 20:00"
+    },
+    {
+      "day": "sexta-feira",
+      "hours": "07:00 to 20:00"
+    },
+    {
+      "day": "sábado",
+      "hours": "07:00 to 12:00"
+    },
+    {
+      "day": "domingo",
+      "hours": "07:00 to 12:00"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Acessibilidade": [
+      {
+        "Banheiro com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Entrada com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Estacionamento com acessibilidade para pessoas em cadeira de rodas": true
+      }
+    ],
+    "Comodidades": [
+      {
+        "Banheiro": true
+      }
+    ],
+    "Planejamento": [
+      {
+        "É recomendado marcar hora": true
+      }
+    ],
+    "Pagamentos": [
+      {
+        "Cartão de crédito": true
+      },
+      {
+        "Pagamentos por dispositivo móvel via NFC": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Fisioterapia%20M%C3%A1rcia%20Luque&query_place_id=ChIJeWqGrdMzWpMRQNnVtdr-Xvc",
+  "searchPageUrl": "https://www.google.com/maps/search/Cl%C3%ADnicas/@-15.830352604263538,-48.00593185,15z?hl=pt-BR",
+  "searchString": "Clínicas",
+  "language": "pt-BR",
+  "rank": 60,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqvVOQhPnhdvJKUJUV_KyvGBlThkz02JGUvwcWI01YGfLVY8OgEVuHECNheZkRLCzsjhpD-qwFqXDrgPmB1MfefjHSvCsIKM48nyfZdkSWnlKduxbFiykL-l9gFNyVLnETgKew1rA=w408-h544-k-no",
+  "kgmid": "/g/11t7m_c66s"
+},
+{
+  "title": "EcoRádio Clínica de Imagens",
+  "price": null,
+  "categoryName": "Centro de diagnóstico médico por imagem",
+  "address": "R. 5 Norte, 03 - Águas Claras, Brasília - DF, 71907-720, Brasil",
+  "neighborhood": "Águas Claras",
+  "street": "R. 5 Norte, 03",
+  "city": "Brasília",
+  "postalCode": "71907-720",
+  "state": "Distrito Federal",
+  "countryCode": "BR",
+  "phone": "+55 61 3372-7666",
+  "phoneUnformatted": "+556133727666",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -15.8349555,
+    "lng": -48.0122963
+  },
+  "totalScore": 2.2,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJqRqVesHMW5MRq1bBmKLT_D8",
+  "categories": [
+    "Centro de diagnóstico médico por imagem"
+  ],
+  "fid": "0x935bccc17a951aa9:0x3ffcd3a298c156ab",
+  "cid": "4610792813821515435",
+  "reviewsCount": 45,
+  "reviewsDistribution": {
+    "oneStar": 30,
+    "twoStar": 1,
+    "threeStar": 0,
+    "fourStar": 1,
+    "fiveStar": 13
+  },
+  "imagesCount": 11,
+  "imageCategories": [],
+  "scrapedAt": "2025-07-07T14:04:15.705Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "segunda-feira",
+      "hours": "08:00 to 16:30"
+    },
+    {
+      "day": "terça-feira",
+      "hours": "08:00 to 16:30"
+    },
+    {
+      "day": "quarta-feira",
+      "hours": "08:00 to 16:30"
+    },
+    {
+      "day": "quinta-feira",
+      "hours": "08:00 to 16:30"
+    },
+    {
+      "day": "sexta-feira",
+      "hours": "08:00 to 16:30"
+    },
+    {
+      "day": "sábado",
+      "hours": "08:00 to 11:00"
+    },
+    {
+      "day": "domingo",
+      "hours": "Fechado"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Acessibilidade": [
+      {
+        "Banheiro com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Entrada com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Estacionamento com acessibilidade para pessoas em cadeira de rodas": true
+      }
+    ],
+    "Comodidades": [
+      {
+        "Banheiro": true
+      },
+      {
+        "Banheiro de gênero neutro": true
+      }
+    ],
+    "Planejamento": [
+      {
+        "É recomendado marcar hora": true
+      }
+    ],
+    "Pagamentos": [
+      {
+        "Cartão de crédito": true
+      },
+      {
+        "Pagamentos por dispositivo móvel via NFC": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=EcoR%C3%A1dio%20Cl%C3%ADnica%20de%20Imagens&query_place_id=ChIJqRqVesHMW5MRq1bBmKLT_D8",
+  "searchPageUrl": "https://www.google.com/maps/search/Cl%C3%ADnicas/@-15.830352604263538,-48.00593185,15z?hl=pt-BR",
+  "searchString": "Clínicas",
+  "language": "pt-BR",
+  "rank": 61,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMIQpoBdeMMuUBTJKH1_obv--o6xR69Uoua0vE=w408-h306-k-no",
+  "kgmid": "/g/11bbrhdtlw"
+},
+{
+  "title": "Sintonizze Clinica de Psicologia",
+  "price": null,
+  "categoryName": "Clínica de saúde mental",
+  "address": "edifício LeQuartier - Av. Pau Brasil, lote 10 - sala 306 - Águas Claras, Brasília - DF, 71926-000, Brasil",
+  "neighborhood": "Águas Claras",
+  "street": "edifício LeQuartier - Av. Pau Brasil, lote 10 - sala 306",
+  "city": "Brasília",
+  "postalCode": "71926-000",
+  "state": "Distrito Federal",
+  "countryCode": "BR",
+  "website": "https://www.sintonizepsicologia.com/",
+  "phone": "+55 61 99651-1621",
+  "phoneUnformatted": "+5561996511621",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -15.8406163,
+    "lng": -48.0272178
+  },
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJYRBXi0MzWpMRTs4VdrkAwDk",
+  "categories": [
+    "Clínica de saúde mental"
+  ],
+  "fid": "0x935a33438b571061:0x39c000b97615ce4e",
+  "cid": "4161326852240428622",
+  "reviewsCount": 28,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 28
+  },
+  "imagesCount": 7,
+  "imageCategories": [],
+  "scrapedAt": "2025-07-07T14:04:15.705Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "segunda-feira",
+      "hours": "08:00 to 21:00"
+    },
+    {
+      "day": "terça-feira",
+      "hours": "08:00 to 21:00"
+    },
+    {
+      "day": "quarta-feira",
+      "hours": "08:00 to 21:00"
+    },
+    {
+      "day": "quinta-feira",
+      "hours": "08:00 to 21:00"
+    },
+    {
+      "day": "sexta-feira",
+      "hours": "08:00 to 21:00"
+    },
+    {
+      "day": "sábado",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "domingo",
+      "hours": "Fechado"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Acessibilidade": [
+      {
+        "Entrada com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Estacionamento com acessibilidade para pessoas em cadeira de rodas": true
+      }
+    ],
+    "Comodidades": [
+      {
+        "Banheiro": true
+      }
+    ],
+    "Público": [
+      {
+        "Empresa que acolhe a comunidade LGBTQ+": true
+      },
+      {
+        "Espaço seguro para pessoas transgênero": true
+      }
+    ],
+    "Planejamento": [
+      {
+        "Necessário fazer agendamento": true
+      },
+      {
+        "É recomendado marcar hora": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Sintonizze%20Clinica%20de%20Psicologia&query_place_id=ChIJYRBXi0MzWpMRTs4VdrkAwDk",
+  "searchPageUrl": "https://www.google.com/maps/search/Cl%C3%ADnicas/@-15.830352604263538,-48.00593185,15z?hl=pt-BR",
+  "searchString": "Clínicas",
+  "language": "pt-BR",
+  "rank": 63,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMq9-A1bkAJQFIrePnj0w_7bJa3iV_TXaKqSCt2=w426-h240-k-no",
+  "kgmid": "/g/11jdxr9tym"
+},
+{
+  "title": "Clinica de Cardiologia Cardiocor / Aguas Claras",
+  "price": null,
+  "categoryName": "Cardiologista",
+  "address": "Águas Claras Shopping - Av. das Araucárias, 1835 - Salas 314 / 315 / 316 / 317 - Águas Claras, Brasília - DF, 71936-250, Brasil",
+  "neighborhood": "Águas Claras",
+  "street": "Águas Claras Shopping - Av. das Araucárias, 1835 - Salas 314 / 315 / 316 / 317",
+  "city": "Brasília",
+  "postalCode": "71936-250",
+  "state": "Distrito Federal",
+  "countryCode": "BR",
+  "website": "https://clinicacardiocor.com.br/",
+  "phone": "+55 61 3435-4900",
+  "phoneUnformatted": "+556134354900",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -15.8413622,
+    "lng": -48.0233011
+  },
+  "totalScore": 3.4,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJUzq8h20yWpMRNbOWRy6Cf7k",
+  "categories": [
+    "Cardiologista"
+  ],
+  "fid": "0x935a326d87bc3a53:0xb97f822e4796b335",
+  "cid": "13366545354340086581",
+  "reviewsCount": 211,
+  "reviewsDistribution": {
+    "oneStar": 66,
+    "twoStar": 18,
+    "threeStar": 6,
+    "fourStar": 8,
+    "fiveStar": 113
+  },
+  "imagesCount": 73,
+  "imageCategories": [],
+  "scrapedAt": "2025-07-07T14:04:15.705Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "segunda-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "terça-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "quarta-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "quinta-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "sexta-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "sábado",
+      "hours": "08:00 to 12:00"
+    },
+    {
+      "day": "domingo",
+      "hours": "Fechado"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Da empresa": [
+      {
+        "Se identifica como uma empresa de empreendedoras": true
+      }
+    ],
+    "Acessibilidade": [
+      {
+        "Banheiro com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Entrada com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Estacionamento com acessibilidade para pessoas em cadeira de rodas": true
+      }
+    ],
+    "Comodidades": [
+      {
+        "Banheiro": true
+      },
+      {
+        "Banheiro de gênero neutro": true
+      }
+    ],
+    "Público": [
+      {
+        "Empresa que acolhe a comunidade LGBTQ+": true
+      },
+      {
+        "Espaço seguro para pessoas transgênero": true
+      }
+    ],
+    "Planejamento": [
+      {
+        "Necessário fazer agendamento": true
+      },
+      {
+        "É recomendado marcar hora": true
+      }
+    ],
+    "Pagamentos": [
+      {
+        "Cartão de crédito": true
+      },
+      {
+        "Pagamentos por dispositivo móvel via NFC": true
+      },
+      {
+        "Cartões de crédito": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Clinica%20de%20Cardiologia%20Cardiocor%20%2F%20Aguas%20Claras&query_place_id=ChIJUzq8h20yWpMRNbOWRy6Cf7k",
+  "searchPageUrl": "https://www.google.com/maps/search/Cl%C3%ADnicas/@-15.830352604263538,-48.00593185,15z?hl=pt-BR",
+  "searchString": "Clínicas",
+  "language": "pt-BR",
+  "rank": 64,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipN1dx-ytyYk0Dii0BFpWzZxK82M_Z7hCq05mIf5=w408-h544-k-no",
+  "kgmid": "/g/11csq2dsl9"
+},
+{
+  "title": "Apercepção Dermatologia e Psicologia",
+  "price": null,
+  "categoryName": "Serviços médicos locais",
+  "address": "Shopping, Sala 432 - Águas Claras, Brasília - DF, 71925-000, Brasil",
+  "neighborhood": "Águas Claras",
+  "street": "Shopping, Sala 432",
+  "city": "Brasília",
+  "postalCode": "71925-000",
+  "state": "Distrito Federal",
+  "countryCode": "BR",
+  "website": "https://www.apercepcao.com.br/",
+  "phone": "+55 61 99116-0555",
+  "phoneUnformatted": "+5561991160555",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -15.8413709,
+    "lng": -48.0233159
+  },
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJX8u_Z28zWpMRhntQtX5hz0s",
+  "categories": [
+    "Serviços médicos locais",
+    "Psicólogo infantil",
+    "Dermatologista",
+    "Terapeuta de casal",
+    "Neuropsicólogo",
+    "Nutricionista",
+    "Psiquiatra",
+    "Psicólogo",
+    "Clínica de psicopedagogia",
+    "Fonoaudiólogo"
+  ],
+  "fid": "0x935a336f67bfcb5f:0x4bcf617eb5507b86",
+  "cid": "5462692069859425158",
+  "reviewsCount": 11,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 11
+  },
+  "imagesCount": 9,
+  "imageCategories": [],
+  "scrapedAt": "2025-07-07T14:04:15.705Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "segunda-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "terça-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "quarta-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "quinta-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "sexta-feira",
+      "hours": "08:00 to 18:00"
+    },
+    {
+      "day": "sábado",
+      "hours": "Fechado"
+    },
+    {
+      "day": "domingo",
+      "hours": "Fechado"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Acessibilidade": [
+      {
+        "Assento com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Banheiro com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Entrada com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Estacionamento com acessibilidade para pessoas em cadeira de rodas": true
+      }
+    ],
+    "Público": [
+      {
+        "Empresa que acolhe a comunidade LGBTQ+": true
+      },
+      {
+        "Espaço seguro para pessoas transgênero": true
+      }
+    ],
+    "Pagamentos": [
+      {
+        "Cartão de crédito": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Apercep%C3%A7%C3%A3o%20Dermatologia%20e%20Psicologia&query_place_id=ChIJX8u_Z28zWpMRhntQtX5hz0s",
+  "searchPageUrl": "https://www.google.com/maps/search/Cl%C3%ADnicas/@-15.830352604263538,-48.00593185,15z?hl=pt-BR",
+  "searchString": "Clínicas",
+  "language": "pt-BR",
+  "rank": 65,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMga-NKJ6ZtjVqUGR2pjVdFRn35J0_cDpshqtc4=w408-h544-k-no",
+  "kgmid": "/g/11jw5kd954"
+},
+{
+  "title": "RAC Radiologia Águas Claras",
+  "price": null,
+  "categoryName": "Radiologista",
+  "address": "Albany Medical Center - R. 5 Norte, 3 - Lojas 13/14, Ed - Águas Claras, Brasília - DF, 71907-720, Brasil",
+  "neighborhood": "Águas Claras",
+  "street": "Albany Medical Center - R. 5 Norte, 3 - Lojas 13/14, Ed",
+  "city": "Brasília",
+  "postalCode": "71907-720",
+  "state": "Distrito Federal",
+  "countryCode": "BR",
+  "website": "http://www.radiologiaaguasclaras.com.br/",
+  "phone": "+55 61 3030-4555",
+  "phoneUnformatted": "+556130304555",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -15.835067,
+    "lng": -48.012283
+  },
+  "totalScore": 4.5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJd-BawBAyWpMROdsHndPHI3Y",
+  "categories": [
+    "Radiologista"
+  ],
+  "fid": "0x935a3210c05ae077:0x7623c7d39d07db39",
+  "cid": "8512867432346934073",
+  "reviewsCount": 515,
+  "reviewsDistribution": {
+    "oneStar": 56,
+    "twoStar": 7,
+    "threeStar": 5,
+    "fourStar": 20,
+    "fiveStar": 427
+  },
+  "imagesCount": 60,
+  "imageCategories": [],
+  "scrapedAt": "2025-07-07T14:04:15.705Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "segunda-feira",
+      "hours": "06:30 to 23:30"
+    },
+    {
+      "day": "terça-feira",
+      "hours": "06:30 to 23:30"
+    },
+    {
+      "day": "quarta-feira",
+      "hours": "06:30 to 23:30"
+    },
+    {
+      "day": "quinta-feira",
+      "hours": "06:30 to 23:30"
+    },
+    {
+      "day": "sexta-feira",
+      "hours": "06:30 to 23:30"
+    },
+    {
+      "day": "sábado",
+      "hours": "06:30 to 22:00"
+    },
+    {
+      "day": "domingo",
+      "hours": "08:00 to 22:00"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Acessibilidade": [
+      {
+        "Banheiro com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Entrada com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Estacionamento com acessibilidade para pessoas em cadeira de rodas": true
+      }
+    ],
+    "Comodidades": [
+      {
+        "Banheiro": true
+      }
+    ],
+    "Planejamento": [
+      {
+        "É recomendado marcar hora": true
+      }
+    ],
+    "Pagamentos": [
+      {
+        "Cartão de crédito": true
+      },
+      {
+        "Pagamentos por dispositivo móvel via NFC": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=RAC%20Radiologia%20%C3%81guas%20Claras&query_place_id=ChIJd-BawBAyWpMROdsHndPHI3Y",
+  "searchPageUrl": "https://www.google.com/maps/search/Cl%C3%ADnicas/@-15.830352604263538,-48.00593185,15z?hl=pt-BR",
+  "searchString": "Clínicas",
+  "language": "pt-BR",
+  "rank": 66,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipP13l8UB9D2dULk7-1OnKWrRltE5OVdLu2g5n1_=w408-h271-k-no",
+  "kgmid": "/g/11bwpznb4c"
+},
+{
+  "title": "Elohim - Renovação de CNH",
+  "price": null,
+  "categoryName": "Departamento de trânsito",
+  "address": "Av. das Araucárias, 1205 - Sala 110 - Águas Claras, Brasília - DF, 71936-250, Brasil",
+  "neighborhood": "Águas Claras",
+  "street": "Av. das Araucárias, 1205 - Sala 110",
+  "city": "Brasília",
+  "postalCode": "71936-250",
+  "state": "Distrito Federal",
+  "countryCode": "BR",
+  "phone": "+55 61 3048-0180",
+  "phoneUnformatted": "+556130480180",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -15.8392832,
+    "lng": -48.0177955
+  },
+  "totalScore": 4.1,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJxe6EbxIyWpMRAbV1fQKZmHA",
+  "categories": [
+    "Departamento de trânsito"
+  ],
+  "fid": "0x935a32126f84eec5:0x709899027d75b501",
+  "cid": "8113402964681798913",
+  "reviewsCount": 105,
+  "reviewsDistribution": {
+    "oneStar": 21,
+    "twoStar": 1,
+    "threeStar": 2,
+    "fourStar": 6,
+    "fiveStar": 75
+  },
+  "imagesCount": 8,
+  "imageCategories": [],
+  "scrapedAt": "2025-07-07T14:04:15.705Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "segunda-feira",
+      "hours": "08:30 to 12:00, 13:30 to 17:30"
+    },
+    {
+      "day": "terça-feira",
+      "hours": "08:30 to 12:00, 13:30 to 17:30"
+    },
+    {
+      "day": "quarta-feira",
+      "hours": "08:30 to 12:00, 13:30 to 17:30"
+    },
+    {
+      "day": "quinta-feira",
+      "hours": "08:30 to 12:00, 13:30 to 17:30"
+    },
+    {
+      "day": "sexta-feira",
+      "hours": "08:30 to 12:00, 13:30 to 17:30"
+    },
+    {
+      "day": "sábado",
+      "hours": "Fechado"
+    },
+    {
+      "day": "domingo",
+      "hours": "Fechado"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Acessibilidade": [
+      {
+        "Entrada com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Estacionamento com acessibilidade para pessoas em cadeira de rodas": true
+      }
+    ],
+    "Comodidades": [
+      {
+        "Banheiro": true
+      }
+    ],
+    "Pagamentos": [
+      {
+        "Cartão de crédito": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Elohim%20-%20Renova%C3%A7%C3%A3o%20de%20CNH&query_place_id=ChIJxe6EbxIyWpMRAbV1fQKZmHA",
+  "searchPageUrl": "https://www.google.com/maps/search/Cl%C3%ADnicas/@-15.830352604263538,-48.00593185,15z?hl=pt-BR",
+  "searchString": "Clínicas",
+  "language": "pt-BR",
+  "rank": 69,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqvw9QBY8YfCe5KsWDrsz8PqGiXo-O1wOj2mEWd-cvHkniBL9e2KgeY9pVgZ9KpgV09mhRqxMNDpvR5kYVD9x4tMG7Bv0ue8Sl8tt77677bZImLZiauxPoJFN287RqzDoBZ1749=w408-h544-k-no",
+  "kgmid": "/g/1ptzf_krl"
+},
+{
+  "title": "Nosso Espaço | Clínica de Psicologia Neuropsicologia Fonoaudiologia Psicopedagogia em Águas Claras",
+  "price": null,
+  "categoryName": "Psicólogo",
+  "address": "Albany Medical Center - R. 5 Norte, 3 - Sala 214- ED - Águas Claras, Brasília - DF, 71907-720, Brasil",
+  "neighborhood": "Águas Claras",
+  "street": "Albany Medical Center - R. 5 Norte, 3 - Sala 214- ED",
+  "city": "Brasília",
+  "postalCode": "71907-720",
+  "state": "Distrito Federal",
+  "countryCode": "BR",
+  "website": "http://www.clinicanossoespaco.com.br/",
+  "phone": "+55 61 3254-0903",
+  "phoneUnformatted": "+556132540903",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -15.8349545,
+    "lng": -48.0122536
+  },
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJpwKCwBAyWpMRYo8UobDQHKY",
+  "categories": [
+    "Psicólogo",
+    "Psicólogo infantil",
+    "Clínica de saúde mental",
+    "Serviço de saúde mental",
+    "Neuropsicólogo",
+    "Clínica de psicopedagogia",
+    "Fonoaudiólogo"
+  ],
+  "fid": "0x935a3210c08202a7:0xa61cd0b0a1148f62",
+  "cid": "11969671366679236450",
+  "reviewsCount": 76,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 76
+  },
+  "imagesCount": 222,
+  "imageCategories": [],
+  "scrapedAt": "2025-07-07T14:04:15.705Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "segunda-feira",
+      "hours": "08:00 to 19:00"
+    },
+    {
+      "day": "terça-feira",
+      "hours": "08:00 to 19:00"
+    },
+    {
+      "day": "quarta-feira",
+      "hours": "08:00 to 19:00"
+    },
+    {
+      "day": "quinta-feira",
+      "hours": "08:00 to 19:00"
+    },
+    {
+      "day": "sexta-feira",
+      "hours": "08:00 to 19:00"
+    },
+    {
+      "day": "sábado",
+      "hours": "Fechado"
+    },
+    {
+      "day": "domingo",
+      "hours": "Fechado"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Da empresa": [
+      {
+        "Se identifica como uma empresa de empreendedoras": true
+      }
+    ],
+    "Opções de serviço": [
+      {
+        "Português": true
+      }
+    ],
+    "Acessibilidade": [
+      {
+        "Assento com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Banheiro com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Entrada com acessibilidade para pessoas em cadeira de rodas": true
+      },
+      {
+        "Estacionamento com acessibilidade para pessoas em cadeira de rodas": true
+      }
+    ],
+    "Comodidades": [
+      {
+        "Banheiro": true
+      },
+      {
+        "Banheiro de gênero neutro": true
+      }
+    ],
+    "Público": [
+      {
+        "Empresa que acolhe a comunidade LGBTQ+": true
+      },
+      {
+        "Espaço seguro para pessoas transgênero": true
+      }
+    ],
+    "Planejamento": [
+      {
+        "Necessário fazer agendamento": true
+      },
+      {
+        "É recomendado marcar hora": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Nosso%20Espa%C3%A7o%20%7C%20Cl%C3%ADnica%20de%20Psicologia%20Neuropsicologia%20Fonoaudiologia%20Psicopedagogia%20em%20%C3%81guas%20Claras&query_place_id=ChIJpwKCwBAyWpMRYo8UobDQHKY",
+  "searchPageUrl": "https://www.google.com/maps/search/Cl%C3%ADnicas/@-15.830352604263538,-48.00593185,15z?hl=pt-BR",
+  "searchString": "Clínicas",
+  "language": "pt-BR",
+  "rank": 72,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNqqA3wkMmKxjSdJei9-Ym_2qw5c0HBA9fvDgjS=w408-h271-k-no",
+  "kgmid": "/g/11f2w6chgb"
+},
+{
+  "title": "Clinica de Psicologia - S&S Psicologia",
+  "price": null,
+  "categoryName": "Psicólogo",
+  "address": "Q 204 Edifício Alfa Mix Center Entrada A, Sala 404 - Águas Claras Sul, Brasília - DF, 71939-540, Brasil",
+  "neighborhood": "Águas Claras Sul",
+  "street": "Q 204 Edifício Alfa Mix Center Entrada A, Sala 404",
+  "city": "Brasília",
+  "postalCode": "71939-540",
+  "state": "Distrito Federal",
+  "countryCode": "BR",
+  "website": "https://sespsicologia.com.br/",
+  "phone": "+55 61 99100-6833",
+  "phoneUnformatted": "+5561991006833",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -15.8404681,
+    "lng": -48.0182412
+  },
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJj0dwifkzWpMRfHsuDGrttyo",
+  "categories": [
+    "Psicólogo"
+  ],
+  "fid": "0x935a33f98970478f:0x2ab7ed6a0c2e7b7c",
+  "cid": "3078189910057712508",
+  "reviewsCount": 25,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 25
+  },
+  "imagesCount": 7,
+  "imageCategories": [],
+  "scrapedAt": "2025-07-07T14:04:15.705Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "segunda-feira",
+      "hours": "08:00 to 22:00"
+    },
+    {
+      "day": "terça-feira",
+      "hours": "08:00 to 22:00"
+    },
+    {
+      "day": "quarta-feira",
+      "hours": "08:00 to 22:00"
+    },
+    {
+      "day": "quinta-feira",
+      "hours": "08:00 to 22:00"
+    },
+    {
+      "day": "sexta-feira",
+      "hours": "08:00 to 22:00"
+    },
+    {
+      "day": "sábado",
+      "hours": "08:00 to 12:30"
+    },
+    {
+      "day": "domingo",
+      "hours": "Fechado"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Da empresa": [
+      {
+        "Se identifica como uma empresa de empreendedoras": true
+      }
+    ],
+    "Acessibilidade": [
+      {
+        "Estacionamento com acessibilidade para pessoas em cadeira de rodas": true
+      }
+    ],
+    "Comodidades": [
+      {
+        "Banheiro": true
+      }
+    ],
+    "Público": [
+      {
+        "Empresa que acolhe a comunidade LGBTQ+": true
+      },
+      {
+        "Espaço seguro para pessoas transgênero": true
+      }
+    ],
+    "Planejamento": [
+      {
+        "É recomendado marcar hora": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Clinica%20de%20Psicologia%20-%20S%26S%20Psicologia&query_place_id=ChIJj0dwifkzWpMRfHsuDGrttyo",
+  "searchPageUrl": "https://www.google.com/maps/search/Cl%C3%ADnicas/@-15.830352604263538,-48.00593185,15z?hl=pt-BR",
+  "searchString": "Clínicas",
+  "language": "pt-BR",
+  "rank": 73,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNhMZ1j1QnCaXXeUAHmF6IAjJZY7rAgpFcD7fha=w426-h240-k-no",
+  "kgmid": "/g/11krh95pst"
+}]
